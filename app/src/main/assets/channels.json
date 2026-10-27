@@ -1,0 +1,3044 @@
+[
+  {
+    "id": "76b8049d05f2",
+    "name": "RCTI",
+    "group": "Indonesia",
+    "section": "Nasional",
+    "owner": "MNC Media",
+    "logoUrl": "https://i.imgur.com/OHIJ0mq.jpeg",
+    "servers": [
+      {
+        "name": "Server 5",
+        "url": "https://rplus.inisemar.my.id/rcti.m3u8",
+        "headers": {
+          "User-Agent": "android-R+",
+          "Referer": "https://www.rctiplus.com/"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "5",
+    "logoDark": false,
+    "availabilityNote": "Belum lolos uji video; akses dapat dibatasi penyedia.",
+    "officialUrl": "https://www.rctiplus.com/",
+    "epgIds": {
+      "community": "RCTI.id",
+      "indonesia": "RCTI.id",
+      "faae": "RCTI.id@SD",
+      "iptvepg": "RCTI.id"
+    }
+  },
+  {
+    "id": "59dc39d68779",
+    "name": "MNCTV",
+    "group": "Indonesia",
+    "section": "Nasional",
+    "owner": "MNC Media",
+    "logoUrl": "https://i.imgur.com/jvfFLE7.jpeg",
+    "servers": [
+      {
+        "name": "Server 5",
+        "url": "https://rplus.inisemar.my.id/mnctv.m3u8",
+        "headers": {
+          "User-Agent": "android-R+",
+          "Referer": "https://www.rctiplus.com/"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "6",
+    "logoDark": false,
+    "availabilityNote": "Belum lolos uji video; akses dapat dibatasi penyedia.",
+    "officialUrl": "https://www.rctiplus.com/",
+    "epgIds": {
+      "community": "MNCTV.id",
+      "indonesia": "MNCTV.id",
+      "faae": "MNCTV.id@SD",
+      "iptvepg": "MNCTV.id"
+    }
+  },
+  {
+    "id": "eb2be75dbc33",
+    "name": "GTV",
+    "group": "Indonesia",
+    "section": "Nasional",
+    "owner": "MNC Media",
+    "logoUrl": "https://i.imgur.com/7LnO8iZ.jpeg",
+    "servers": [
+      {
+        "name": "Server 5",
+        "url": "https://rplus.inisemar.my.id/gtv.m3u8",
+        "headers": {
+          "User-Agent": "android-R+",
+          "Referer": "https://www.rctiplus.com/"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "7",
+    "logoDark": false,
+    "availabilityNote": "Sumber DRM belum teruji pemutar; alternatif gagal saat diperiksa.",
+    "officialUrl": "https://www.rctiplus.com/",
+    "epgIds": {
+      "community": "GTV.id",
+      "indonesia": "GTV.id",
+      "faae": "GTV.id@SD",
+      "iptvepg": "GTV.id"
+    }
+  },
+  {
+    "id": "9410de67a439",
+    "name": "iNews",
+    "group": "Indonesia",
+    "section": "Berita",
+    "owner": "MNC Media",
+    "logoUrl": "https://i.imgur.com/o66RL3F.jpeg",
+    "servers": [
+      {
+        "name": "Server 4",
+        "url": "https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Inews.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 5",
+        "url": "https://rplus.inisemar.my.id/inews.m3u8",
+        "headers": {
+          "User-Agent": "android-R+",
+          "Referer": "https://www.rctiplus.com/"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "8",
+    "logoDark": false,
+    "availabilityNote": "Belum lolos uji video; akses dapat dibatasi penyedia.",
+    "officialUrl": "https://www.rctiplus.com/",
+    "epgIds": {
+      "community": "iNews.id",
+      "indonesia": "iNews.id",
+      "faae": "iNews.id@SD",
+      "iptvepg": "iNews.id"
+    }
+  },
+  {
+    "id": "3e085bb86527",
+    "name": "Sindo News TV",
+    "group": "Indonesia",
+    "section": "Berita",
+    "owner": "MNC Media",
+    "logoUrl": "https://i.imgur.com/z8QKZdo.jpeg",
+    "servers": [
+      {
+        "name": "Server 2",
+        "url": "https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "logoDark": false,
+    "availabilityNote": "Sumber DRM belum teruji di perangkat.",
+    "officialUrl": "https://www.visionplus.id/",
+    "epgIds": {
+      "community": "SindoNewsTV.id",
+      "indonesia": "SindoNewsTV.id"
+    }
+  },
+  {
+    "id": "5e5216c2e2b9",
+    "name": "IDX Channel",
+    "group": "Indonesia",
+    "section": "Berita",
+    "owner": "MNC Media",
+    "logoUrl": "https://i.imgur.com/IIRrujJ.jpeg",
+    "servers": [],
+    "logoDark": false,
+    "availabilityNote": "Konfigurasi akses sumber tidak disertakan pada kode publik. Gunakan playlist yang Anda miliki aksesnya.",
+    "officialUrl": "https://www.visionplus.id/",
+    "epgIds": {
+      "indonesia": "IDX.id",
+      "faae": "IDXChannel.id@SD"
+    }
+  },
+  {
+    "id": "65d55676d404",
+    "name": "SCTV",
+    "group": "Indonesia",
+    "section": "Nasional",
+    "owner": "Emtek",
+    "logoUrl": "https://i.imgur.com/9nGJaOL.jpeg",
+    "servers": [
+      {
+        "name": "Server 5",
+        "url": "http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "logoDark": false,
+    "availabilityNote": "Sumber DRM belum teruji; alternatif gagal saat diperiksa.",
+    "officialUrl": "https://www.vidio.com/",
+    "epgIds": {
+      "community": "SCTV.id",
+      "indonesia": "SCTV.id",
+      "faae": "SCTV.id@SD",
+      "iptvepg": "SCTV.id"
+    }
+  },
+  {
+    "id": "6eeca542573f",
+    "name": "Indosiar",
+    "group": "Indonesia",
+    "section": "Nasional",
+    "owner": "Emtek",
+    "logoUrl": "https://i.imgur.com/SjCylM5.jpeg",
+    "servers": [],
+    "logoDark": false,
+    "availabilityNote": "Konfigurasi akses sumber tidak disertakan pada kode publik. Gunakan playlist yang Anda miliki aksesnya.",
+    "officialUrl": "https://www.vidio.com/",
+    "epgIds": {
+      "community": "Indosiar.id",
+      "indonesia": "Indosiar.id",
+      "faae": "Indosiar.id@SD",
+      "iptvepg": "Indosiar.id"
+    }
+  },
+  {
+    "id": "3a327309e1f0",
+    "name": "MOJI",
+    "group": "Indonesia",
+    "section": "Nasional",
+    "owner": "Emtek",
+    "logoUrl": "https://i.imgur.com/xqPgGT4.jpeg",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 3",
+        "url": "http://202.150.161.212:5000/live/channel39/playlist.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36",
+          "Referer": "https://www.visionplus.id/"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "3",
+    "logoDark": false,
+    "epgIds": {
+      "community": "Moji.id",
+      "faae": "Moji.id@SD"
+    }
+  },
+  {
+    "id": "3e238f5b9d90",
+    "name": "Mentari TV",
+    "group": "Indonesia",
+    "section": "Anak",
+    "owner": "Emtek",
+    "logoUrl": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mentaritv.png",
+    "servers": [],
+    "logoDark": false,
+    "availabilityNote": "Konfigurasi akses sumber tidak disertakan pada kode publik. Gunakan playlist yang Anda miliki aksesnya.",
+    "officialUrl": "https://www.vidio.com/",
+    "epgIds": {
+      "faae": "MentariTV.id@SD"
+    }
+  },
+  {
+    "id": "3b7bc5d92b33",
+    "name": "tvOne",
+    "group": "Indonesia",
+    "section": "Berita",
+    "owner": "VIVA",
+    "logoUrl": "https://i.imgur.com/c1Nykgw.jpeg",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://op-group1-densxvisionhd-1.dens.tv/h/h40/01.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 2",
+        "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 3",
+        "url": "https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "2",
+    "logoDark": false,
+    "epgIds": {
+      "community": "tvOne.id",
+      "indonesia": "tvOne.id",
+      "faae": "tvOne.id@SD",
+      "iptvepg": "tvOne.id"
+    }
+  },
+  {
+    "id": "d25f0338f18a",
+    "name": "ANTV",
+    "group": "Indonesia",
+    "section": "Nasional",
+    "owner": "VIVA",
+    "logoUrl": "https://i.imgur.com/BGBn0uW.jpeg",
+    "servers": [
+      {
+        "name": "Server 5",
+        "url": "http://103.58.160.157:8278/720-ANTV/playlist.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "logoDark": false,
+    "availabilityNote": "Belum lolos uji video; sumber dapat berubah.",
+    "officialUrl": "https://www.an.tv/",
+    "epgIds": {
+      "community": "ANTV.id",
+      "indonesia": "ANTV.id",
+      "faae": "ANTV.id@SD",
+      "iptvepg": "ANTV.id"
+    }
+  },
+  {
+    "id": "1042ec1d8a31",
+    "name": "VTV",
+    "group": "Indonesia",
+    "section": "Anak",
+    "owner": "VIVA",
+    "logoUrl": "https://i.pinimg.com/736x/08/c6/4f/08c64f160e7bf6aff13c7af781d441a4.jpg",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://flv.intechmedia.net/live/ch107.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "logoDark": true,
+    "epgIds": {}
+  },
+  {
+    "id": "83523281758f",
+    "name": "Trans TV",
+    "group": "Indonesia",
+    "section": "Nasional",
+    "owner": "Trans Media",
+    "logoUrl": "https://i.imgur.com/WZ5h0LV.jpeg",
+    "servers": [
+      {
+        "name": "Server 4",
+        "url": "https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "logoDark": false,
+    "availabilityNote": "Sumber belum berhasil diputar saat pemeriksaan.",
+    "officialUrl": "https://www.transtv.co.id/live",
+    "epgIds": {
+      "community": "TransTV.id",
+      "indonesia": "TransTV.id",
+      "faae": "TransTV.id@SD",
+      "iptvepg": "TransTV.id"
+    }
+  },
+  {
+    "id": "5877b9e4f09d",
+    "name": "Trans7",
+    "group": "Indonesia",
+    "section": "Nasional",
+    "owner": "Trans Media",
+    "logoUrl": "https://i.imgur.com/NvICauU.jpeg",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "logoDark": false,
+    "epgIds": {
+      "community": "Trans7.id",
+      "indonesia": "Trans7.id",
+      "faae": "Trans7.id@SD",
+      "iptvepg": "Trans7.id"
+    }
+  },
+  {
+    "id": "1cffca4543cd",
+    "name": "CNN Indonesia",
+    "group": "Indonesia",
+    "section": "Berita",
+    "owner": "Trans Media",
+    "logoUrl": "https://i.imgur.com/PfH7DFq.jpeg",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist_w1188349826_b384000_sleng.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 2",
+        "url": "https://live.cnbcindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 3",
+        "url": "https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+          "Referer": "https://video.detik.com/"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "11",
+    "logoDark": false,
+    "epgIds": {
+      "community": "CNNIndonesia.id",
+      "faae": "CNNIndonesia.id@SD"
+    }
+  },
+  {
+    "id": "af1612e14dad",
+    "name": "CNBC Indonesia",
+    "group": "Indonesia",
+    "section": "Berita",
+    "owner": "Trans Media",
+    "logoUrl": "https://i.imgur.com/vH16ap1.jpeg",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv/playlist.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 2",
+        "url": "https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+          "Referer": "https://video.detik.com/"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "12",
+    "logoDark": false,
+    "epgIds": {
+      "community": "CNBCIndonesia.id",
+      "faae": "CNBCIndonesia.id@SD"
+    }
+  },
+  {
+    "id": "2d54a4d37cd5",
+    "name": "Metro TV",
+    "group": "Indonesia",
+    "section": "Berita",
+    "owner": "Media Group",
+    "logoUrl": "https://i.imgur.com/2R5ie25.jpeg",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 2",
+        "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 3",
+        "url": "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "13",
+    "logoDark": false,
+    "epgIds": {
+      "community": "MetroTV.id",
+      "indonesia": "MetroTV.id",
+      "faae": "MetroTV.id@SD",
+      "iptvepg": "MetroTV.id"
+    }
+  },
+  {
+    "id": "d5284e0e05c7",
+    "name": "Magna Channel",
+    "group": "Indonesia",
+    "section": "Nasional",
+    "owner": "Media Group",
+    "logoUrl": "https://pic.dens.tv/tv_183x174/Magna_Channel_1.jpg",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h24/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 2",
+        "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h24/01.m3u8",
+        "headers": {
+          "Referer": "https://www.dens.tv/",
+          "Origin": "https://www.dens.tv",
+          "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 3",
+        "url": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 4",
+        "url": "http://202.150.172.59/MagnaChannel/index.m3u8",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "logoDark": false,
+    "epgIds": {
+      "community": "MagnaChannel.id",
+      "faae": "MagnaChannel.id@SD"
+    }
+  },
+  {
+    "id": "1ba339bdd431",
+    "name": "BN Channel",
+    "group": "Indonesia",
+    "section": "Berita",
+    "owner": "Media Group",
+    "logoUrl": "https://pic.dens.tv/tv_183x174/BN_Channel_(Trial)_1.jpg",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h108/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 2",
+        "url": "https://flv.intechmedia.net/live/ch112.m3u8?",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 3",
+        "url": "http://175.158.57.130:8888/stream/channelid/1402218159",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "logoDark": false,
+    "epgIds": {
+      "community": "BNChannel.id"
+    }
+  },
+  {
+    "id": "b9c29328d87b",
+    "name": "BTV",
+    "group": "Indonesia",
+    "section": "Berita",
+    "owner": "B Universe",
+    "logoUrl": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_btv.png",
+    "servers": [
+      {
+        "name": "Server 2",
+        "url": "https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "14",
+    "logoDark": false,
+    "epgIds": {
+      "indonesia": "BTV.id",
+      "faae": "BTV.id@SD"
+    }
+  },
+  {
+    "id": "89ffcdf5f4db",
+    "name": "Garuda TV",
+    "group": "Indonesia",
+    "section": "Berita",
+    "owner": "Lainnya",
+    "logoUrl": "https://i.imgur.com/vWQ5HmT.jpeg",
+    "servers": [
+      {
+        "name": "Server 3",
+        "url": "https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 4",
+        "url": "https://hgmtv.com:19360/garudatvlivestreaming/480p.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 5",
+        "url": "https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "logoDark": false,
+    "availabilityNote": "Server siaran sedang bermasalah saat pemeriksaan.",
+    "officialUrl": "https://garuda.tv/live/",
+    "epgIds": {
+      "community": "GarudaTV.id",
+      "faae": "GarudaTV.id@SD"
+    }
+  },
+  {
+    "id": "c7f165fbd692",
+    "name": "TVRI Nasional",
+    "group": "Indonesia",
+    "section": "Nasional",
+    "owner": "TVRI",
+    "logoUrl": "https://i.imgur.com/3tt7jEP.jpeg",
+    "servers": [
+      {
+        "name": "Server 2",
+        "url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 3",
+        "url": "http://202.150.172.59/TVRI/index.m3u8",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "9",
+    "logoDark": false,
+    "epgIds": {
+      "community": "TVRI.id",
+      "indonesia": "TVRI.id",
+      "faae": "TVRI.id@SD",
+      "iptvepg": "TVRI.id"
+    }
+  },
+  {
+    "id": "6fd18f170d9c",
+    "name": "TVRI Sport",
+    "group": "Indonesia",
+    "section": "Olahraga",
+    "owner": "TVRI",
+    "logoUrl": "https://i.imgur.com/KJpxxtL.jpeg",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://www.tvrinews.com/"
+        }
+      },
+      {
+        "name": "Server 2",
+        "url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10005-mp4a_96000=20002.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://www.tvrinews.com/"
+        }
+      },
+      {
+        "name": "Server 3",
+        "url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_500000=10008-mp4a_64000=20001.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Referer": "https://www.tvrinews.com/"
+        }
+      }
+    ],
+    "logoDark": false,
+    "availabilityNote": "Feed TVRI Sport masih menampilkan logo TVRI saat diuji.",
+    "officialUrl": "https://klik.tvri.go.id/",
+    "epgIds": {
+      "faae": "TVRISport.id@SD"
+    }
+  },
+  {
+    "id": "23409d0c1abb",
+    "name": "TVRI World",
+    "group": "Indonesia",
+    "section": "Nasional",
+    "owner": "TVRI",
+    "logoUrl": "https://i.imgur.com/K0cHyjN.jpeg",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "logoDark": false,
+    "epgIds": {
+      "faae": "TVRIWorld.id@SD"
+    }
+  },
+  {
+    "id": "22d4cb9e370e",
+    "name": "TVRI Jakarta",
+    "group": "Indonesia",
+    "section": "Daerah",
+    "owner": "TVRI",
+    "logoUrl": "https://i.imgur.com/3tt7jEP.jpeg",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "logoDark": false,
+    "epgIds": {}
+  },
+  {
+    "id": "d6f705c6de25",
+    "name": "TVRI Banten",
+    "group": "Indonesia",
+    "section": "Daerah",
+    "owner": "TVRI",
+    "logoUrl": "https://i.imgur.com/3tt7jEP.jpeg",
+    "servers": [],
+    "logoDark": false,
+    "availabilityNote": "Konfigurasi akses sumber tidak disertakan pada kode publik. Gunakan playlist yang Anda miliki aksesnya.",
+    "officialUrl": "https://klik.tvri.go.id/",
+    "epgIds": {}
+  },
+  {
+    "id": "5e9f1b636b16",
+    "name": "RTV",
+    "group": "Indonesia",
+    "section": "Nasional",
+    "owner": "Lainnya",
+    "logoUrl": "https://i.imgur.com/RygqpXd.jpeg",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h10/01.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 3",
+        "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 4",
+        "url": "https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 6",
+        "url": "http://175.158.57.130:8888/stream/channelid/412436804",
+        "headers": {
+          "Referer": "http://175.158.57.130:8888/"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 7",
+        "url": "http://202.150.161.212:5000/live/channel23/playlist.m3u8",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 8",
+        "url": "http://202.150.172.59/RajawaliTV/index.m3u8",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "4",
+    "logoDark": false,
+    "epgIds": {
+      "community": "RTV.id",
+      "faae": "RajawaliTV.id@SD"
+    }
+  },
+  {
+    "id": "4df4b52a9933",
+    "name": "Kompas TV",
+    "group": "Indonesia",
+    "section": "Berita",
+    "owner": "Lainnya",
+    "logoUrl": "https://i.imgur.com/tv1OIsG.jpeg",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "1",
+    "logoDark": false,
+    "epgIds": {
+      "community": "KompasTV.id",
+      "indonesia": "KompasTV.id",
+      "faae": "KompasTV.id@SD",
+      "iptvepg": "KompasTV.id"
+    }
+  },
+  {
+    "id": "7b18b51da30c",
+    "name": "Nusantara TV",
+    "group": "Indonesia",
+    "section": "Berita",
+    "owner": "Lainnya",
+    "logoUrl": "https://i.imgur.com/EzirkhZ.jpeg",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 2",
+        "url": "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 3",
+        "url": "https://cdnbal1.indihometv.com/atm/DASH/nusantaratv/nusantaratv-avc1_2500000=7-3277707030000000.mpd",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "10",
+    "logoDark": false,
+    "epgIds": {
+      "community": "NusantaraTV.id",
+      "faae": "NusantaraTV.id@SD"
+    }
+  },
+  {
+    "id": "8c4ece4818e7",
+    "name": "Sin Po TV",
+    "group": "Indonesia",
+    "section": "Berita",
+    "owner": "Lainnya",
+    "logoUrl": "https://i.imgur.com/5ADGyWF.jpeg",
+    "servers": [],
+    "logoDark": false,
+    "availabilityNote": "Konfigurasi akses sumber tidak disertakan pada kode publik. Gunakan playlist yang Anda miliki aksesnya.",
+    "officialUrl": "https://www.youtube.com/channel/UCKlCoYf-khqH1bCRTA2os6A",
+    "epgIds": {
+      "community": "SinPoTV.id@HD",
+      "faae": "SinPoTV.id@HD"
+    }
+  },
+  {
+    "id": "6c3803040221",
+    "name": "DAAI TV",
+    "group": "Indonesia",
+    "section": "Nasional",
+    "owner": "Lainnya",
+    "logoUrl": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_daaitv.png",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 2",
+        "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h16/01.m3u8",
+        "headers": {
+          "Referer": "https://www.dens.tv/",
+          "Origin": "https://www.dens.tv",
+          "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "logoDark": false,
+    "epgIds": {
+      "community": "DAAITV.id",
+      "faae": "DAAITV.id@SD"
+    }
+  },
+  {
+    "id": "5e07f6004445",
+    "name": "JakTV",
+    "group": "Indonesia",
+    "section": "Nasional",
+    "owner": "Lainnya",
+    "logoUrl": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jaktv.png",
+    "servers": [],
+    "logoDark": false,
+    "availabilityNote": "Konfigurasi akses sumber tidak disertakan pada kode publik. Gunakan playlist yang Anda miliki aksesnya.",
+    "officialUrl": "https://jak-tv.com/",
+    "epgIds": {
+      "indonesia": "JakTV.id",
+      "faae": "JakTV.id@SD",
+      "iptvepg": "JAKTV.id"
+    }
+  },
+  {
+    "id": "d07b8c1a4cfe",
+    "name": "TVMU",
+    "group": "Indonesia",
+    "section": "Religi",
+    "owner": "Lainnya",
+    "logoUrl": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvmu.png",
+    "servers": [],
+    "logoDark": false,
+    "availabilityNote": "Konfigurasi akses sumber tidak disertakan pada kode publik. Gunakan playlist yang Anda miliki aksesnya.",
+    "officialUrl": "https://www.youtube.com/channel/UCQ6rjPZ_Zj7yK9A5jJWCohA",
+    "epgIds": {
+      "faae": "TVMu.id@SD"
+    }
+  },
+  {
+    "id": "b48d3df14b07",
+    "name": "Rodja TV",
+    "group": "Indonesia",
+    "section": "Religi",
+    "owner": "Lainnya",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-4y3qUljfX_BHFUkaJ8HVtBAqoFmTSxYgKpkFrmPBzg&s=10",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h233/02.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 2",
+        "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 3",
+        "url": "https://rodjatv.com/rodjatv/live.m3u8",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "logoDark": false,
+    "epgIds": {
+      "faae": "RodjaTV.id@SD"
+    }
+  },
+  {
+    "id": "a8894ebc66c6",
+    "name": "Tawaf TV",
+    "group": "Indonesia",
+    "section": "Religi",
+    "owner": "Lainnya",
+    "logoUrl": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/88_DMITV-88-WARNA_2025_07_23_10_09_34.png",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://tvstreamcast.com/tawaftv.m3u8",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "logoDark": false,
+    "epgIds": {
+      "indonesia": "TawafTV.id",
+      "iptvepg": "TawafTV.id"
+    }
+  },
+  {
+    "id": "3cec19874cdd",
+    "name": "Ajwa TV",
+    "group": "Indonesia",
+    "section": "Religi",
+    "owner": "Lainnya",
+    "logoUrl": "",
+    "servers": [],
+    "logoDark": false,
+    "availabilityNote": "Konfigurasi akses sumber tidak disertakan pada kode publik. Gunakan playlist yang Anda miliki aksesnya.",
+    "officialUrl": "https://www.vidio.com/@ajwatv/overview",
+    "epgIds": {
+      "faae": "AjwaTV.id@SD"
+    }
+  },
+  {
+    "id": "e37f4a26c4a5",
+    "name": "MDTV",
+    "group": "Indonesia",
+    "section": "Nasional",
+    "owner": "Lainnya",
+    "logoUrl": "https://i.imgur.com/N19eGsM.jpeg",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 2",
+        "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8",
+        "headers": {
+          "Referer": "https://www.dens.tv/",
+          "Origin": "https://www.dens.tv",
+          "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "15",
+    "logoDark": false,
+    "epgIds": {
+      "community": "MDTV.id",
+      "indonesia": "MDTV.id",
+      "faae": "MDTV.id@HD"
+    }
+  },
+  {
+    "id": "3b14768b8201",
+    "name": "Berita Satu",
+    "group": "Indonesia",
+    "section": "Berita",
+    "owner": "B Universe",
+    "logoUrl": "https://i.imgur.com/PE8YCX1.jpeg",
+    "servers": [
+      {
+        "name": "Server 3",
+        "url": "https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu/abr.m3u8",
+        "headers": {
+          "Referer": "https://www.beritasatu.com/beritasatu-live-streaming"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "logoDark": false,
+    "epgIds": {
+      "community": "BTV.id@SD",
+      "faae": "BeritaSatu.id@SD",
+      "iptvepg": "BeritaSatu.id"
+    }
+  },
+  {
+    "id": "44501b7536f4",
+    "name": "DW English",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Internasional",
+    "logoUrl": "",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "16",
+    "logoDark": false,
+    "epgIds": {
+      "indonesia": "DWEnglish.id",
+      "faae": "DW.de@English",
+      "iptvepg": "DWEnglish.id"
+    }
+  },
+  {
+    "id": "d3410385f479",
+    "name": "CNA Originals",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Internasional",
+    "logoUrl": "",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "17",
+    "logoDark": true,
+    "epgIds": {}
+  },
+  {
+    "id": "d2b5c94529c4",
+    "name": "CGTN Documentary",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Internasional",
+    "logoUrl": "",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "18",
+    "logoDark": false,
+    "epgIds": {
+      "indonesia": "CGTNDocumentary.id",
+      "faae": "CGTNDocumentary.cn@SD",
+      "iptvepg": "CGTNDocumentary.id"
+    }
+  },
+  {
+    "id": "699b9c009962",
+    "name": "Arirang TV",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Internasional",
+    "logoUrl": "https://cdn.theorg.com/78660ec3-1157-4f38-9256-81a539d3d3ca_medium.jpg",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "19",
+    "logoDark": false,
+    "epgIds": {
+      "indonesia": "Arirang.id"
+    }
+  },
+  {
+    "id": "248a836f2601",
+    "name": "Bloomberg Originals",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Internasional",
+    "logoUrl": "",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://bloomberg.com/media-manifest/streams/qt.m3u8",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "20",
+    "logoDark": false,
+    "epgIds": {}
+  },
+  {
+    "id": "5d56ac894b39",
+    "name": "France 24 English",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Internasional",
+    "logoUrl": "",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "21",
+    "logoDark": false,
+    "epgIds": {
+      "indonesia": "France24English.id",
+      "iptvepg": "France24English.id"
+    }
+  },
+  {
+    "id": "cd6d03475c15",
+    "name": "Euronews English",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Internasional",
+    "logoUrl": "",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "22",
+    "logoDark": false,
+    "epgIds": {}
+  },
+  {
+    "id": "797e95388d3d",
+    "name": "CNA",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Internasional",
+    "logoUrl": "",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "23",
+    "logoDark": false,
+    "epgIds": {
+      "community": "CNA.id",
+      "indonesia": "CNA.id",
+      "iptvepg": "ChannelNewsAsia.id"
+    }
+  },
+  {
+    "id": "5bd1c03874af",
+    "name": "Al Jazeera English",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Internasional",
+    "logoUrl": "",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "24",
+    "logoDark": false,
+    "epgIds": {
+      "indonesia": "AlJazeeraEnglish.id",
+      "faae": "AlJazeera.qa@English",
+      "iptvepg": "AlJazeeraEnglish.id"
+    }
+  },
+  {
+    "id": "dcc243272dbe",
+    "name": "Al Jazeera Arabic",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Internasional",
+    "logoUrl": "",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://op-flashcon-digdayahd-1.dens.tv/s/s16/index.m3u8",
+        "headers": {
+          "Referer": "https://www.dens.tv/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "25",
+    "logoDark": false,
+    "epgIds": {
+      "faae": "AlJazeera.qa@Arabic"
+    }
+  },
+  {
+    "id": "0fa1152946bf",
+    "name": "EBS kids",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Internasional",
+    "logoUrl": "",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "26",
+    "logoDark": false,
+    "epgIds": {}
+  },
+  {
+    "id": "3a2bc2170e12",
+    "name": "TV5MONDE Chefs",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Internasional",
+    "logoUrl": "",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "27",
+    "logoDark": true,
+    "epgIds": {}
+  },
+  {
+    "id": "315db84632ef",
+    "name": "Bloomberg TV Europe",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Internasional",
+    "logoUrl": "",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://bloomberg.com/media-manifest/streams/eu.m3u8",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "28",
+    "logoDark": false,
+    "epgIds": {}
+  },
+  {
+    "id": "1c0698dc7160",
+    "name": "NHK World-Japan",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Internasional",
+    "logoUrl": "",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
+        "headers": {},
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "legacyId": "29",
+    "logoDark": false,
+    "epgIds": {
+      "community": "NHKWorldJapan.id",
+      "indonesia": "NHKWorldJapan.id",
+      "faae": "NHKWorldJapan.jp@SD"
+    }
+  },
+  {
+    "id": "sports-ktv-sport",
+    "name": "KTV Sport",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "Kuwait · Arab",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
+        "headers": {}
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "sports-ktv-sport-plus",
+    "name": "KTV Sport Plus",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "Kuwait · Arab",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
+        "headers": {}
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "sports-oman-sports-tv",
+    "name": "Oman Sports TV",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "Oman · Arab",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+        "headers": {}
+      }
+    ],
+    "availabilityNote": "Respons sumber bukan playlist video yang valid.",
+    "officialUrl": "https://omaninfo.om/",
+    "epgIds": {}
+  },
+  {
+    "id": "sport-ftf-sports",
+    "name": "FTF Sports",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "Amerika Serikat",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://1593604785.rsc.cdn77.org/FTF/FTF_SCTE.m3u8",
+        "headers": {}
+      },
+      {
+        "name": "Server 2",
+        "url": "https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8",
+        "headers": {}
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "sport-tvs-sports",
+    "name": "TVS Sports",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "Amerika Serikat",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://rpn.bozztv.com/gusa/gusa-tvssports/index.m3u8",
+        "headers": {}
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "sport-tvs-sports-bureau",
+    "name": "TVS Sports Bureau",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "Amerika Serikat",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8",
+        "headers": {}
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "sport-bahrain-sports-1",
+    "name": "Bahrain Sports 1",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "Bahrain",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
+        "headers": {}
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "sport-bahrain-sports-2",
+    "name": "Bahrain Sports 2",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "Bahrain",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8",
+        "headers": {}
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "sport-htspor-tv",
+    "name": "HTSpor TV",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "Turki",
+    "servers": [],
+    "epgIds": {},
+    "availabilityNote": "Konfigurasi akses sumber tidak disertakan pada kode publik. Gunakan playlist yang Anda miliki aksesnya."
+  },
+  {
+    "id": "sport-more-than-sports-tv",
+    "name": "More Than Sports TV",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "Jerman",
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8",
+        "headers": {}
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "sport-motorvision-tv",
+    "name": "Motorvision TV",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "Jerman",
+    "servers": [],
+    "epgIds": {},
+    "availabilityNote": "Konfigurasi akses sumber tidak disertakan pada kode publik. Gunakan playlist yang Anda miliki aksesnya."
+  },
+  {
+    "id": "my-sukan-rtm",
+    "name": "Sukan+ (RTM)",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "Malaysia · Sumber DRM belum teruji",
+    "logoDark": false,
+    "servers": [],
+    "availabilityNote": "Konfigurasi akses sumber tidak disertakan pada kode publik. Gunakan playlist yang Anda miliki aksesnya.",
+    "officialUrl": "https://rtmklik.rtm.gov.my/",
+    "epgIds": {
+      "rtm": "Sukan RTM"
+    }
+  },
+  {
+    "id": "my-tv-okey",
+    "name": "TV Okey",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "RTM · Malaysia",
+    "logoDark": false,
+    "servers": [],
+    "epgIds": {
+      "rtm": "Okey"
+    },
+    "availabilityNote": "Konfigurasi akses sumber tidak disertakan pada kode publik. Gunakan playlist yang Anda miliki aksesnya."
+  },
+  {
+    "id": "my-tv1",
+    "name": "TV1 Malaysia",
+    "group": "Internasional",
+    "section": "Malaysia",
+    "owner": "RTM · Malaysia",
+    "logoDark": false,
+    "servers": [],
+    "epgIds": {
+      "rtm": "TV1"
+    },
+    "availabilityNote": "Konfigurasi akses sumber tidak disertakan pada kode publik. Gunakan playlist yang Anda miliki aksesnya."
+  },
+  {
+    "id": "my-tv2",
+    "name": "TV2 Malaysia",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "RTM · Malaysia",
+    "logoDark": false,
+    "servers": [],
+    "epgIds": {
+      "rtm": "TV2"
+    },
+    "availabilityNote": "Konfigurasi akses sumber tidak disertakan pada kode publik. Gunakan playlist yang Anda miliki aksesnya."
+  },
+  {
+    "id": "intl-jordan-sport",
+    "name": "Jordan Sport",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "Yordania · Arab",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8",
+        "headers": {}
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "intl-al-iraqia-sport",
+    "name": "Al Iraqia Sport",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "Irak · Arab",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
+        "headers": {}
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "intl-se-al-colombia",
+    "name": "Señal Colombia",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "Kolombia · Spanyol · Umum",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8",
+        "headers": {}
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "intl-bolivia-tv",
+    "name": "Bolivia TV",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "Bolivia · Spanyol · Umum",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://hls.tvabierta.net/hls/boliviatv.m3u8",
+        "headers": {}
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "religion-makkah",
+    "name": "Makkah Live",
+    "group": "Internasional",
+    "section": "Religi",
+    "owner": "Arab Saudi · Saudi Quran TV",
+    "liveLabel": "Masjidil Haram · Makkah",
+    "logoUrl": "https://i.imgur.com/A2fJysM.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 2",
+        "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "religion-madinah",
+    "name": "Madinah Live",
+    "group": "Internasional",
+    "section": "Religi",
+    "owner": "Arab Saudi · Saudi Sunnah TV",
+    "liveLabel": "Masjid Nabawi · Madinah",
+    "logoUrl": "https://i.imgur.com/S6LcTJv.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      },
+      {
+        "name": "Server 2",
+        "url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        },
+        "drm": "",
+        "licenseUrl": "",
+        "keyId": "",
+        "key": ""
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "extra-al-saudiya",
+    "name": "Al Saudiya",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Arab Saudi",
+    "logoUrl": "https://i.imgur.com/GRQTndk.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "extra-sbc-saudi-arabia",
+    "name": "SBC Saudi Arabia",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Arab Saudi",
+    "logoUrl": "https://i.imgur.com/9JSQglj.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "extra-thikrayat",
+    "name": "Thikrayat",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Arab Saudi",
+    "logoUrl": "https://i.imgur.com/AKa1X9d.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "extra-al-ekhbariya",
+    "name": "Al Ekhbariya",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Arab Saudi",
+    "logoUrl": "https://i.imgur.com/WcRlHQm.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "extra-al-saudiya-alaan",
+    "name": "Al Saudiya Alaan",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Arab Saudi",
+    "logoUrl": "https://i.imgur.com/sEOjApe.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "extra-biz-tv",
+    "name": "Biz TV",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Amerika Serikat",
+    "logoUrl": "https://i.imgur.com/cbGvXyF.jpg",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "extra-bloomberg",
+    "name": "Bloomberg",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Amerika Serikat",
+    "logoUrl": "https://i.imgur.com/VnCcH73.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://bloomberg.com/media-manifest/streams/us.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "extra-nbc-news",
+    "name": "NBC News",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Amerika Serikat",
+    "logoUrl": "https://i.imgur.com/v48mMRT.png",
+    "logoDark": false,
+    "servers": [],
+    "epgIds": {},
+    "availabilityNote": "Konfigurasi akses sumber tidak disertakan pada kode publik. Gunakan playlist yang Anda miliki aksesnya."
+  },
+  {
+    "id": "extra-drybar-comedy",
+    "name": "Drybar Comedy",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Amerika Serikat",
+    "logoUrl": "https://i.imgur.com/EldlmTp.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "extra-stryk-tv",
+    "name": "Stryk TV",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Amerika Serikat",
+    "logoUrl": "https://stryktv.com/wp-content/uploads/2021/08/StrykTV-MTS.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://FFFFFFF110156200.tvustream.com/ryfy.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "extra-fox-live-now",
+    "name": "FOX Live Now",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Amerika Serikat",
+    "logoUrl": "https://graph.facebook.com/livenowfox/picture?width=200&height=200",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "extra-cheddar",
+    "name": "Cheddar",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Amerika Serikat",
+    "logoUrl": "https://graph.facebook.com/cheddar/picture?width=200&height=200",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "extra-weathernation",
+    "name": "WeatherNation",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Amerika Serikat",
+    "logoUrl": "https://graph.facebook.com/WeatherNation/picture?width=200&height=200",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "extra-america-s-voice",
+    "name": "America's Voice",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Amerika Serikat",
+    "logoUrl": "https://graph.facebook.com/RealAmericasVoice/picture?width=200&height=200",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "extra-newsmax-tv",
+    "name": "Newsmax TV",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Amerika Serikat",
+    "logoUrl": "https://graph.facebook.com/newsmax/picture?width=200&height=200",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "extra-america-teve",
+    "name": "America TeVe",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Amerika Serikat",
+    "logoUrl": "https://pbs.twimg.com/profile_images/2067373416173260801/9cUCY5wX_200x200.jpg",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://live.gideo.video/americateve2/master.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "extra-botflix-tv",
+    "name": "Botflix TV",
+    "group": "Internasional",
+    "section": "Internasional",
+    "owner": "Amerika Serikat",
+    "logoUrl": "https://i.imgur.com/JBEM8lP.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://hls.botflix.tv/tv/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "extra-bein-sports-xtra",
+    "name": "beIN SPORTS XTRA",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "Olahraga internasional",
+    "logoUrl": "https://i.ibb.co/HT49GPmB/XTRA-2.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://bein-xtra-bein.amagi.tv/playlist.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "extra-fifa-espa-ol",
+    "name": "FIFA+ Español",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "Olahraga internasional",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "extra-fifa-usa",
+    "name": "FIFA+ USA",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "Olahraga internasional",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "extra-fifa-women",
+    "name": "FIFA+ Women",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "Olahraga internasional",
+    "logoUrl": "https://i.imgur.com/xy9ZxVO.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "extra-stadium",
+    "name": "Stadium",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "Olahraga internasional",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/960px-Stadium_%28sports_network%29_logo.svg.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "extra-swerve-sports",
+    "name": "Swerve Sports",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "Olahraga internasional",
+    "logoUrl": "https://i.imgur.com/GT0Yi2T.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://a-cdn.klowdtv.com/live3/swervewomenssports_720p/playlist.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "extra-tennis-channel",
+    "name": "Tennis Channel",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "Olahraga internasional",
+    "logoUrl": "https://i.imgur.com/tsljAnY.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "extra-trace-sport-stars",
+    "name": "Trace Sport Stars",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "Olahraga internasional",
+    "logoUrl": "https://i.imgur.com/FabFP5A.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "extra-tvs-women-sports",
+    "name": "TVS Women Sports",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "Olahraga internasional",
+    "logoUrl": "https://i.imgur.com/8hC4PfF.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "extra-world-of-freesports",
+    "name": "World of Freesports",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "Olahraga internasional",
+    "logoUrl": "https://i.imgur.com/lta5Mog.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "extra-pluto-esports",
+    "name": "Pluto TV E-Sports",
+    "group": "Internasional",
+    "section": "Olahraga",
+    "owner": "Esports & gaming · Spanyol",
+    "logoDark": true,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "nick-nick-jr-croatia-540p",
+    "name": "Nick Jr. (Croatia)",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "http://176.61.157.250/NickJr/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "nick-nick-jr-czech-republic",
+    "name": "Nick Jr. (Czech Republic)",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://i.imgur.com/KT4tdQs.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "http://88.212.15.50/live/test_nick_jr/playlist.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "nick-nick-jr-hungary",
+    "name": "Nick Jr. (Hungary)",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "http://88.212.7.14/live/nick_junior_hun/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "nick-nick-jr-italy-720p",
+    "name": "Nick Jr. (Italy)",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://i.imgur.com/6p3eFgf.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "http://102.129.186.182:81/nick/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "nick-nick-jr-poland-576i",
+    "name": "Nick Jr. (Poland)",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "http://92.114.85.87:8013/play/a004/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "nick-nick-jr-club-germany-720p",
+    "name": "Nick Jr. Club (Germany)",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoPNG_1748329104247.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "nick-nick-jr-club-united-states-br-720p",
+    "name": "Nick Jr. Club Brasil",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG_1748348856602.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "nick-nick-jr-club-united-states-latam-720p",
+    "name": "Nick Jr. Club Latino",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG_1748348856602.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "nick-nick-jr-latin-america-1080p",
+    "name": "Nick Jr. Latin America",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://i.imgur.com/KT4tdQs.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://streaming.onnethn.com/NICK_JR/playlist.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "nick-nick-jr-pluto-tv-720p",
+    "name": "Nick Jr. Pluto TV",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "nick-nick-jr-pluto-tv-ca",
+    "name": "Nick Jr. Pluto TV CA",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "nick-nickelodeon-brazil-480p",
+    "name": "Nickelodeon (Brazil)",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://i.imgur.com/E84jnP8.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "nick-nickelodeon-croatia-1080p",
+    "name": "Nickelodeon (Croatia)",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "http://176.61.157.250/Nickelodeon/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "nick-nickelodeon-germany",
+    "name": "Nickelodeon (Germany)",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://i.imgur.com/E84jnP8.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "nick-nickelodeon-hungary",
+    "name": "Nickelodeon (Hungary)",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://i.imgur.com/fXs8f6a.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "http://88.212.7.14/live/test_nickelodeon_hu_1200_atk/playlist.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "nick-nickelodeon-poland-576i",
+    "name": "Nickelodeon (Poland)",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://i.imgur.com/E84jnP8.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "http://92.114.85.87:8013/play/a005/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "nick-nickelodeon-russia-576p",
+    "name": "Nickelodeon (Russia)",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://i.imgur.com/w8iE8dV.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "http://stream.mcquack.net/443/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "nick-nickelodeon-united-states-720p",
+    "name": "Nickelodeon (United States)",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://i.imgur.com/E84jnP8.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "http://198.58.104.90:8989/nickelodeon/index.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {},
+    "availabilityNote": "Pada jam tertentu menayangkan Nick at Nite (komedi keluarga)."
+  },
+  {
+    "id": "nick-nickelodeon-cis-1080p",
+    "name": "Nickelodeon CIS",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://i.imgur.com/E84jnP8.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://stream8.cinerama.uz/1500/playlist.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "nick-nickelodeon-clasico-720p",
+    "name": "Nickelodeon Clásico Latino",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG_1750157294622.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "nick-nickelodeon-classico-720p",
+    "name": "Nickelodeon Clássico Brasil",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG_1750157164414.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "nick-nickelodeon-classics-720p",
+    "name": "Nickelodeon Classics Germany",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://images.pluto.tv/channels/67f3eb800a1beb98767ca748/colorLogoPNG_1749200817646.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "nick-nickelodeon-en-espanol",
+    "name": "Nickelodeon en espanol",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "nick-nickelodeon-global-576p",
+    "name": "Nickelodeon Global",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",
+    "logoDark": false,
+    "servers": [],
+    "epgIds": {},
+    "availabilityNote": "Konfigurasi akses sumber tidak disertakan pada kode publik. Gunakan playlist yang Anda miliki aksesnya."
+  },
+  {
+    "id": "nick-nickelodeon-pluto-tv-720p",
+    "name": "Nickelodeon Pluto TV",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "nick-nickelodeon-teen-720p",
+    "name": "Nickelodeon Teen Brasil",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "nick-nickelodeon-teen-latam-720p",
+    "name": "Nickelodeon Teen Latino",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "nick-nickelodeon-toons-720p",
+    "name": "Nickelodeon Toons Brasil",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  },
+  {
+    "id": "nick-nickelodeon-toons-latam-720p",
+    "name": "Nickelodeon Toons Latino",
+    "group": "Internasional",
+    "section": "Anak & Keluarga",
+    "owner": "Nickelodeon · Internasional",
+    "logoUrl": "https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png",
+    "logoDark": false,
+    "servers": [
+      {
+        "name": "Server 1",
+        "url": "https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8",
+        "headers": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    ],
+    "epgIds": {}
+  }
+]
