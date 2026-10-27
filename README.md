@@ -39,11 +39,11 @@ ELIO TV merupakan aplikasi pemutar. Ketersediaan siaran bergantung pada penyedia
 
 ## Kode sumber lengkap
 
-Unduh [ELIO_TV_1.8.5_Source.zip](https://github.com/aslamhadil111201/elio-tv/releases/download/v1.8.5/ELIO_TV_1.8.5_Source.zip) pada halaman rilis. Arsip berisi proyek Android: kode Java, aset, ikon, logo, katalog sumber, cache EPG, konfigurasi Gradle, panduan build dan catatan pengujian.
+Kode proyek sekarang tersedia langsung pada branch **main**, dalam folder `app/` dan `docs/`. Untuk mengunduh proyek, pilih **Code → Download ZIP** dari halaman utama repository.
 
-Gunakan arsip bernama **ELIO_TV_1.8.5_Source.zip**, bukan ZIP otomatis dari tag awal yang hanya memuat dokumentasi repository. Kode proyek juga tersedia langsung pada branch main dalam folder app/ dan docs/.
+Salinan kode publik tidak memuat kunci penandatanganan, password, konfigurasi komputer, atau konfigurasi akses bertoken/DRM dan header rahasia. Karena itu katalog publik berbeda dari sebagian konfigurasi APK distribusi.
 
-Salinan publik tidak memuat kunci penandatanganan, password, konfigurasi mesin, atau konfigurasi akses bertoken, DRM, dan header rahasia. Karena itu katalog kode publik berbeda dari sebagian konfigurasi distribusi APK. Gunakan sumber resmi atau playlist yang Anda miliki aksesnya.
+Arsip sumber lama pada Releases sedang direvisi. Gunakan branch main sebagai sumber kode terkini.
 
 ## Struktur proyek
 
