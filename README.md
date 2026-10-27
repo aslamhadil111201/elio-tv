@@ -2,7 +2,7 @@
 
 Aplikasi pemutar IPTV untuk **Android TV, STB Android, dan HP Android**. Mendukung navigasi remote maupun layar sentuh, preview siaran, favorit, pilihan server, dan jadwal acara pada channel yang didukung.
 
-Repository privat ini menyimpan dokumentasi dan distribusi APK ELIO TV.
+Repository publik ini menyimpan dokumentasi, APK, dan arsip kode sumber ELIO TV.
 
 ## Unduh aplikasi
 
@@ -36,3 +36,11 @@ Keberhasilan uji sumber berlaku saat pengujian dan tidak menjamin ketersediaan s
 ---
 
 ELIO TV merupakan aplikasi pemutar. Ketersediaan siaran bergantung pada penyedia sumber dan jaringan yang digunakan.
+
+## Kode sumber lengkap
+
+Unduh [ELIO_TV_1.8.5_Source.zip](https://github.com/aslamhadil111201/elio-tv/releases/download/v1.8.5/ELIO_TV_1.8.5_Source.zip) pada halaman rilis. Arsip berisi proyek Android: kode Java, aset, ikon, logo, katalog sumber, cache EPG, konfigurasi Gradle, panduan build dan catatan pengujian.
+
+Gunakan arsip bernama **ELIO_TV_1.8.5_Source.zip**, bukan ZIP otomatis dari tag awal yang hanya memuat dokumentasi repository. Kode lengkap disimpan sebagai aset rilis, bukan sebagai folder proyek pada branch main.
+
+Salinan publik tidak memuat kunci penandatanganan, password, konfigurasi mesin, atau entri sumber dengan kunci dekripsi tertanam. Karena itu katalog kode publik berbeda dari sebagian konfigurasi distribusi APK. Gunakan sumber resmi atau playlist yang Anda miliki aksesnya.
