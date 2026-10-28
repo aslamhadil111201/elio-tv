@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 2,
+  "revision": 3,
   "updatedAt": "2026-10-28",
   "channels": [
     {
@@ -998,8 +998,49 @@
       "group": "Internasional",
       "section": "Anak & Keluarga",
       "owner": "Nickelodeon · Internasional"
+    },
+    {
+      "id": "local-rctv-cirebon",
+      "name": "RCTV Cirebon",
+      "group": "Indonesia",
+      "section": "Lokal",
+      "owner": "Cirebon, Jawa Barat",
+      "officialUrl": "https://www.radarcirebon.tv/",
+      "logoUrl": "https://i.imgur.com/CyIlt0y.png",
+      "logoDark": false,
+      "epgIds": {},
+      "servers": [
+        {
+          "name": "RCTV · siaran lokal",
+          "url": "https://v10.siar.us/rctv/live/playlist.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": "https://www.radarcirebon.tv/livestreaming/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "local-banten-tv",
+      "name": "Banten TV",
+      "group": "Indonesia",
+      "section": "Lokal",
+      "owner": "Banten",
+      "officialUrl": "https://app.bantentv.com/live-stream/",
+      "logoUrl": "https://i.imgur.com/tbtF40p.png",
+      "logoDark": false,
+      "epgIds": {},
+      "servers": [
+        {
+          "name": "Banten TV · sumber situs resmi",
+          "url": "https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": "https://app.bantentv.com/live-stream/"
+          }
+        }
+      ]
     }
   ],
   "removed": []
 }
-
