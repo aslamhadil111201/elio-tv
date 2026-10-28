@@ -34,6 +34,11 @@ final class EpgStore {
   }
   return new Listing(null,future);
  }
+ List<Programme> history(String channel,long now){
+  Map<String,Map<String,List<Programme>>> snapshot=feeds;
+  for(String feed:ORDER){Map<String,List<Programme>> rows=snapshot.get(feed);if(rows==null)continue;List<Programme> list=rows.get(channel);if(list==null)continue;ArrayList<Programme> past=new ArrayList<>();for(Programme p:list)if(p.end<=now&&p.end>now-86400000L)past.add(p);if(!past.isEmpty()){Collections.sort(past,(a,b)->Long.compare(b.start,a.start));return new ArrayList<>(past.subList(0,Math.min(24,past.size())));}}
+  return Collections.emptyList();
+ }
  static long time(String value){
   if(value==null)return -1;String s=value.trim();java.util.regex.Matcher m=java.util.regex.Pattern.compile("^(\\d{14}|\\d{12})\\s*([+-]\\d{4}|Z)?$").matcher(s);if(!m.matches())return -1;
   String digits=m.group(1),offset=m.group(2);if(offset==null||offset.equals("Z"))offset="+0000";

@@ -3,7 +3,7 @@ android {
  namespace 'id.matin.nusatv'
  compileSdk 35
  buildToolsVersion '35.0.0'
- defaultConfig { applicationId 'id.matin.nusatv'; minSdk 23; targetSdk 35; versionCode 21; versionName '1.9.0' }
+ defaultConfig { applicationId 'id.matin.nusatv'; minSdk 23; targetSdk 35; versionCode 22; versionName '1.9.1' }
  compileOptions { sourceCompatibility JavaVersion.VERSION_1_8; targetCompatibility JavaVersion.VERSION_1_8 }
  buildTypes { release { minifyEnabled false } }
 }

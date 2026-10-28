@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 1,
+  "revision": 2,
   "updatedAt": "2026-10-28",
   "channels": [
     {
@@ -8,273 +8,352 @@
       "name": "RCTI",
       "group": "Indonesia",
       "section": "Nasional",
-      "owner": "MNC Media"
+      "owner": "MNC Media",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/76b8049d05f2.png",
+      "logoDark": false
     },
     {
       "id": "59dc39d68779",
       "name": "MNCTV",
       "group": "Indonesia",
       "section": "Nasional",
-      "owner": "MNC Media"
+      "owner": "MNC Media",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/59dc39d68779.png",
+      "logoDark": false
     },
     {
       "id": "eb2be75dbc33",
       "name": "GTV",
       "group": "Indonesia",
       "section": "Nasional",
-      "owner": "MNC Media"
+      "owner": "MNC Media",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/eb2be75dbc33.png",
+      "logoDark": false
     },
     {
       "id": "9410de67a439",
       "name": "iNews",
       "group": "Indonesia",
       "section": "Berita",
-      "owner": "MNC Media"
+      "owner": "MNC Media",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/9410de67a439.png",
+      "logoDark": true
     },
     {
       "id": "3e085bb86527",
       "name": "Sindo News TV",
       "group": "Indonesia",
       "section": "Berita",
-      "owner": "MNC Media"
+      "owner": "MNC Media",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/3e085bb86527.png",
+      "logoDark": false
     },
     {
       "id": "5e5216c2e2b9",
       "name": "IDX Channel",
       "group": "Indonesia",
       "section": "Berita",
-      "owner": "MNC Media"
+      "owner": "MNC Media",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/5e5216c2e2b9.png",
+      "logoDark": false
     },
     {
       "id": "65d55676d404",
       "name": "SCTV",
       "group": "Indonesia",
       "section": "Nasional",
-      "owner": "Emtek"
+      "owner": "Emtek",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/65d55676d404.png",
+      "logoDark": false
     },
     {
       "id": "6eeca542573f",
       "name": "Indosiar",
       "group": "Indonesia",
       "section": "Nasional",
-      "owner": "Emtek"
+      "owner": "Emtek",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/6eeca542573f.png",
+      "logoDark": false
     },
     {
       "id": "3a327309e1f0",
       "name": "MOJI",
       "group": "Indonesia",
       "section": "Nasional",
-      "owner": "Emtek"
+      "owner": "Emtek",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/3a327309e1f0.png",
+      "logoDark": false
     },
     {
       "id": "3e238f5b9d90",
       "name": "Mentari TV",
       "group": "Indonesia",
       "section": "Anak",
-      "owner": "Emtek"
+      "owner": "Emtek",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/3e238f5b9d90.png",
+      "logoDark": false
     },
     {
       "id": "3b7bc5d92b33",
       "name": "tvOne",
       "group": "Indonesia",
       "section": "Berita",
-      "owner": "VIVA"
+      "owner": "VIVA",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/3b7bc5d92b33.png",
+      "logoDark": true
     },
     {
       "id": "d25f0338f18a",
       "name": "ANTV",
       "group": "Indonesia",
       "section": "Nasional",
-      "owner": "VIVA"
+      "owner": "VIVA",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/d25f0338f18a.png",
+      "logoDark": false
     },
     {
       "id": "1042ec1d8a31",
       "name": "VTV",
       "group": "Indonesia",
       "section": "Anak",
-      "owner": "VIVA"
+      "owner": "VIVA",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/1042ec1d8a31.png",
+      "logoDark": false
     },
     {
       "id": "83523281758f",
       "name": "Trans TV",
       "group": "Indonesia",
       "section": "Nasional",
-      "owner": "Trans Media"
+      "owner": "Trans Media",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/83523281758f.png",
+      "logoDark": false
     },
     {
       "id": "5877b9e4f09d",
       "name": "Trans7",
       "group": "Indonesia",
       "section": "Nasional",
-      "owner": "Trans Media"
+      "owner": "Trans Media",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/5877b9e4f09d.png",
+      "logoDark": false
     },
     {
       "id": "1cffca4543cd",
       "name": "CNN Indonesia",
       "group": "Indonesia",
       "section": "Berita",
-      "owner": "Trans Media"
+      "owner": "Trans Media",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/1cffca4543cd.png",
+      "logoDark": false
     },
     {
       "id": "af1612e14dad",
       "name": "CNBC Indonesia",
       "group": "Indonesia",
       "section": "Berita",
-      "owner": "Trans Media"
+      "owner": "Trans Media",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/af1612e14dad.png",
+      "logoDark": false
     },
     {
       "id": "2d54a4d37cd5",
       "name": "Metro TV",
       "group": "Indonesia",
       "section": "Berita",
-      "owner": "Media Group"
+      "owner": "Media Group",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/2d54a4d37cd5.png",
+      "logoDark": false
     },
     {
       "id": "d5284e0e05c7",
       "name": "Magna Channel",
       "group": "Indonesia",
       "section": "Nasional",
-      "owner": "Media Group"
+      "owner": "Media Group",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/d5284e0e05c7.png",
+      "logoDark": false
     },
     {
       "id": "1ba339bdd431",
       "name": "BN Channel",
       "group": "Indonesia",
       "section": "Berita",
-      "owner": "Media Group"
+      "owner": "Media Group",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/1ba339bdd431.png",
+      "logoDark": false
     },
     {
       "id": "b9c29328d87b",
       "name": "BTV",
       "group": "Indonesia",
       "section": "Berita",
-      "owner": "B Universe"
+      "owner": "B Universe",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/b9c29328d87b.png",
+      "logoDark": false
     },
     {
       "id": "89ffcdf5f4db",
       "name": "Garuda TV",
       "group": "Indonesia",
       "section": "Berita",
-      "owner": "Lainnya"
+      "owner": "Lainnya",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/89ffcdf5f4db.png",
+      "logoDark": true
     },
     {
       "id": "c7f165fbd692",
       "name": "TVRI Nasional",
       "group": "Indonesia",
       "section": "Nasional",
-      "owner": "TVRI"
+      "owner": "TVRI",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/c7f165fbd692.png",
+      "logoDark": false
     },
     {
       "id": "6fd18f170d9c",
       "name": "TVRI Sport",
       "group": "Indonesia",
       "section": "Olahraga",
-      "owner": "TVRI"
+      "owner": "TVRI",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/6fd18f170d9c.png",
+      "logoDark": false
     },
     {
       "id": "23409d0c1abb",
       "name": "TVRI World",
       "group": "Indonesia",
       "section": "Nasional",
-      "owner": "TVRI"
+      "owner": "TVRI",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/23409d0c1abb.png",
+      "logoDark": false
     },
     {
       "id": "22d4cb9e370e",
       "name": "TVRI Jakarta",
       "group": "Indonesia",
       "section": "Daerah",
-      "owner": "TVRI"
+      "owner": "TVRI",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/22d4cb9e370e.png",
+      "logoDark": false
     },
     {
       "id": "d6f705c6de25",
       "name": "TVRI Banten",
       "group": "Indonesia",
       "section": "Daerah",
-      "owner": "TVRI"
+      "owner": "TVRI",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/d6f705c6de25.png",
+      "logoDark": false
     },
     {
       "id": "5e9f1b636b16",
       "name": "RTV",
       "group": "Indonesia",
       "section": "Nasional",
-      "owner": "Lainnya"
+      "owner": "Lainnya",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/5e9f1b636b16.png",
+      "logoDark": false
     },
     {
       "id": "4df4b52a9933",
       "name": "Kompas TV",
       "group": "Indonesia",
       "section": "Berita",
-      "owner": "Lainnya"
+      "owner": "Lainnya",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/4df4b52a9933.png",
+      "logoDark": false
     },
     {
       "id": "7b18b51da30c",
       "name": "Nusantara TV",
       "group": "Indonesia",
       "section": "Berita",
-      "owner": "Lainnya"
+      "owner": "Lainnya",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/7b18b51da30c.png",
+      "logoDark": false
     },
     {
       "id": "8c4ece4818e7",
       "name": "Sin Po TV",
       "group": "Indonesia",
       "section": "Berita",
-      "owner": "Lainnya"
+      "owner": "Lainnya",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/8c4ece4818e7.png",
+      "logoDark": false
     },
     {
       "id": "6c3803040221",
       "name": "DAAI TV",
       "group": "Indonesia",
       "section": "Nasional",
-      "owner": "Lainnya"
+      "owner": "Lainnya",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/6c3803040221.png",
+      "logoDark": false
     },
     {
       "id": "5e07f6004445",
       "name": "JakTV",
       "group": "Indonesia",
       "section": "Nasional",
-      "owner": "Lainnya"
+      "owner": "Lainnya",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/5e07f6004445.png",
+      "logoDark": true
     },
     {
       "id": "d07b8c1a4cfe",
       "name": "TVMU",
       "group": "Indonesia",
       "section": "Religi",
-      "owner": "Lainnya"
+      "owner": "Lainnya",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/d07b8c1a4cfe.png",
+      "logoDark": false
     },
     {
       "id": "b48d3df14b07",
       "name": "Rodja TV",
       "group": "Indonesia",
       "section": "Religi",
-      "owner": "Lainnya"
+      "owner": "Lainnya",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/b48d3df14b07.png",
+      "logoDark": false
     },
     {
       "id": "a8894ebc66c6",
       "name": "Tawaf TV",
       "group": "Indonesia",
       "section": "Religi",
-      "owner": "Lainnya"
+      "owner": "Lainnya",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/a8894ebc66c6.png",
+      "logoDark": false,
+      "officialUrl": "https://tawaf.tv/"
     },
     {
       "id": "3cec19874cdd",
       "name": "Ajwa TV",
       "group": "Indonesia",
       "section": "Religi",
-      "owner": "Lainnya"
+      "owner": "Lainnya",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/3cec19874cdd.png",
+      "logoDark": false
     },
     {
       "id": "e37f4a26c4a5",
       "name": "MDTV",
       "group": "Indonesia",
       "section": "Nasional",
-      "owner": "Lainnya"
+      "owner": "Lainnya",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/e37f4a26c4a5.png",
+      "logoDark": false
     },
     {
       "id": "3b14768b8201",
       "name": "Berita Satu",
       "group": "Indonesia",
       "section": "Berita",
-      "owner": "B Universe"
+      "owner": "B Universe",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/3b14768b8201.png",
+      "logoDark": false
     },
     {
       "id": "44501b7536f4",
@@ -923,3 +1002,4 @@
   ],
   "removed": []
 }
+

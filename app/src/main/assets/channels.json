@@ -5,7 +5,7 @@
     "group": "Indonesia",
     "section": "Nasional",
     "owner": "MNC Media",
-    "logoUrl": "https://i.imgur.com/OHIJ0mq.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/76b8049d05f2.png",
     "servers": [
       {
         "name": "Server 5",
@@ -37,7 +37,7 @@
     "group": "Indonesia",
     "section": "Nasional",
     "owner": "MNC Media",
-    "logoUrl": "https://i.imgur.com/jvfFLE7.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/59dc39d68779.png",
     "servers": [
       {
         "name": "Server 5",
@@ -69,7 +69,7 @@
     "group": "Indonesia",
     "section": "Nasional",
     "owner": "MNC Media",
-    "logoUrl": "https://i.imgur.com/7LnO8iZ.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/eb2be75dbc33.png",
     "servers": [
       {
         "name": "Server 5",
@@ -101,7 +101,7 @@
     "group": "Indonesia",
     "section": "Berita",
     "owner": "MNC Media",
-    "logoUrl": "https://i.imgur.com/o66RL3F.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/9410de67a439.png",
     "servers": [
       {
         "name": "Server 4",
@@ -128,7 +128,7 @@
       }
     ],
     "legacyId": "8",
-    "logoDark": false,
+    "logoDark": true,
     "availabilityNote": "Belum lolos uji video; akses dapat dibatasi penyedia.",
     "officialUrl": "https://www.rctiplus.com/",
     "epgIds": {
@@ -144,7 +144,7 @@
     "group": "Indonesia",
     "section": "Berita",
     "owner": "MNC Media",
-    "logoUrl": "https://i.imgur.com/z8QKZdo.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/3e085bb86527.png",
     "servers": [
       {
         "name": "Server 2",
@@ -172,7 +172,7 @@
     "group": "Indonesia",
     "section": "Berita",
     "owner": "MNC Media",
-    "logoUrl": "https://i.imgur.com/IIRrujJ.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/5e5216c2e2b9.png",
     "servers": [],
     "logoDark": false,
     "availabilityNote": "Konfigurasi akses sumber tidak disertakan pada kode publik. Gunakan playlist yang Anda miliki aksesnya.",
@@ -188,7 +188,7 @@
     "group": "Indonesia",
     "section": "Nasional",
     "owner": "Emtek",
-    "logoUrl": "https://i.imgur.com/9nGJaOL.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/65d55676d404.png",
     "servers": [
       {
         "name": "Server 5",
@@ -216,7 +216,7 @@
     "group": "Indonesia",
     "section": "Nasional",
     "owner": "Emtek",
-    "logoUrl": "https://i.imgur.com/SjCylM5.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/6eeca542573f.png",
     "servers": [],
     "logoDark": false,
     "availabilityNote": "Konfigurasi akses sumber tidak disertakan pada kode publik. Gunakan playlist yang Anda miliki aksesnya.",
@@ -234,7 +234,7 @@
     "group": "Indonesia",
     "section": "Nasional",
     "owner": "Emtek",
-    "logoUrl": "https://i.imgur.com/xqPgGT4.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/3a327309e1f0.png",
     "servers": [
       {
         "name": "Server 1",
@@ -273,7 +273,7 @@
     "group": "Indonesia",
     "section": "Anak",
     "owner": "Emtek",
-    "logoUrl": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mentaritv.png",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/3e238f5b9d90.png",
     "servers": [],
     "logoDark": false,
     "availabilityNote": "Konfigurasi akses sumber tidak disertakan pada kode publik. Gunakan playlist yang Anda miliki aksesnya.",
@@ -288,7 +288,7 @@
     "group": "Indonesia",
     "section": "Berita",
     "owner": "VIVA",
-    "logoUrl": "https://i.imgur.com/c1Nykgw.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/3b7bc5d92b33.png",
     "servers": [
       {
         "name": "Server 1",
@@ -325,7 +325,7 @@
       }
     ],
     "legacyId": "2",
-    "logoDark": false,
+    "logoDark": true,
     "epgIds": {
       "community": "tvOne.id",
       "indonesia": "tvOne.id",
@@ -339,7 +339,7 @@
     "group": "Indonesia",
     "section": "Nasional",
     "owner": "VIVA",
-    "logoUrl": "https://i.imgur.com/BGBn0uW.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/d25f0338f18a.png",
     "servers": [
       {
         "name": "Server 5",
@@ -369,7 +369,7 @@
     "group": "Indonesia",
     "section": "Anak",
     "owner": "VIVA",
-    "logoUrl": "https://i.pinimg.com/736x/08/c6/4f/08c64f160e7bf6aff13c7af781d441a4.jpg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/1042ec1d8a31.png",
     "servers": [
       {
         "name": "Server 1",
@@ -383,7 +383,7 @@
         "key": ""
       }
     ],
-    "logoDark": true,
+    "logoDark": false,
     "epgIds": {}
   },
   {
@@ -392,7 +392,7 @@
     "group": "Indonesia",
     "section": "Nasional",
     "owner": "Trans Media",
-    "logoUrl": "https://i.imgur.com/WZ5h0LV.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/83523281758f.png",
     "servers": [
       {
         "name": "Server 4",
@@ -422,7 +422,7 @@
     "group": "Indonesia",
     "section": "Nasional",
     "owner": "Trans Media",
-    "logoUrl": "https://i.imgur.com/NvICauU.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/5877b9e4f09d.png",
     "servers": [
       {
         "name": "Server 1",
@@ -450,7 +450,7 @@
     "group": "Indonesia",
     "section": "Berita",
     "owner": "Trans Media",
-    "logoUrl": "https://i.imgur.com/PfH7DFq.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/1cffca4543cd.png",
     "servers": [
       {
         "name": "Server 1",
@@ -500,7 +500,7 @@
     "group": "Indonesia",
     "section": "Berita",
     "owner": "Trans Media",
-    "logoUrl": "https://i.imgur.com/vH16ap1.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/af1612e14dad.png",
     "servers": [
       {
         "name": "Server 1",
@@ -539,7 +539,7 @@
     "group": "Indonesia",
     "section": "Berita",
     "owner": "Media Group",
-    "logoUrl": "https://i.imgur.com/2R5ie25.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/2d54a4d37cd5.png",
     "servers": [
       {
         "name": "Server 1",
@@ -588,7 +588,7 @@
     "group": "Indonesia",
     "section": "Nasional",
     "owner": "Media Group",
-    "logoUrl": "https://pic.dens.tv/tv_183x174/Magna_Channel_1.jpg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/d5284e0e05c7.png",
     "servers": [
       {
         "name": "Server 1",
@@ -645,7 +645,7 @@
     "group": "Indonesia",
     "section": "Berita",
     "owner": "Media Group",
-    "logoUrl": "https://pic.dens.tv/tv_183x174/BN_Channel_(Trial)_1.jpg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/1ba339bdd431.png",
     "servers": [
       {
         "name": "Server 1",
@@ -690,7 +690,7 @@
     "group": "Indonesia",
     "section": "Berita",
     "owner": "B Universe",
-    "logoUrl": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_btv.png",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/b9c29328d87b.png",
     "servers": [
       {
         "name": "Server 2",
@@ -715,7 +715,7 @@
     "group": "Indonesia",
     "section": "Berita",
     "owner": "Lainnya",
-    "logoUrl": "https://i.imgur.com/vWQ5HmT.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/89ffcdf5f4db.png",
     "servers": [
       {
         "name": "Server 3",
@@ -749,7 +749,7 @@
         "key": ""
       }
     ],
-    "logoDark": false,
+    "logoDark": true,
     "availabilityNote": "Server siaran sedang bermasalah saat pemeriksaan.",
     "officialUrl": "https://garuda.tv/live/",
     "epgIds": {
@@ -763,7 +763,7 @@
     "group": "Indonesia",
     "section": "Nasional",
     "owner": "TVRI",
-    "logoUrl": "https://i.imgur.com/3tt7jEP.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/c7f165fbd692.png",
     "servers": [
       {
         "name": "Server 2",
@@ -801,7 +801,7 @@
     "group": "Indonesia",
     "section": "Olahraga",
     "owner": "TVRI",
-    "logoUrl": "https://i.imgur.com/KJpxxtL.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/6fd18f170d9c.png",
     "servers": [
       {
         "name": "Server 1",
@@ -841,7 +841,7 @@
     "group": "Indonesia",
     "section": "Nasional",
     "owner": "TVRI",
-    "logoUrl": "https://i.imgur.com/K0cHyjN.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/23409d0c1abb.png",
     "servers": [
       {
         "name": "Server 1",
@@ -866,7 +866,7 @@
     "group": "Indonesia",
     "section": "Daerah",
     "owner": "TVRI",
-    "logoUrl": "https://i.imgur.com/3tt7jEP.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/22d4cb9e370e.png",
     "servers": [
       {
         "name": "Server 1",
@@ -887,7 +887,7 @@
     "group": "Indonesia",
     "section": "Daerah",
     "owner": "TVRI",
-    "logoUrl": "https://i.imgur.com/3tt7jEP.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/d6f705c6de25.png",
     "servers": [],
     "logoDark": false,
     "availabilityNote": "Konfigurasi akses sumber tidak disertakan pada kode publik. Gunakan playlist yang Anda miliki aksesnya.",
@@ -900,7 +900,7 @@
     "group": "Indonesia",
     "section": "Nasional",
     "owner": "Lainnya",
-    "logoUrl": "https://i.imgur.com/RygqpXd.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/5e9f1b636b16.png",
     "servers": [
       {
         "name": "Server 1",
@@ -976,7 +976,7 @@
     "group": "Indonesia",
     "section": "Berita",
     "owner": "Lainnya",
-    "logoUrl": "https://i.imgur.com/tv1OIsG.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/4df4b52a9933.png",
     "servers": [
       {
         "name": "Server 1",
@@ -1005,7 +1005,7 @@
     "group": "Indonesia",
     "section": "Berita",
     "owner": "Lainnya",
-    "logoUrl": "https://i.imgur.com/EzirkhZ.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/7b18b51da30c.png",
     "servers": [
       {
         "name": "Server 1",
@@ -1052,7 +1052,7 @@
     "group": "Indonesia",
     "section": "Berita",
     "owner": "Lainnya",
-    "logoUrl": "https://i.imgur.com/5ADGyWF.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/8c4ece4818e7.png",
     "servers": [],
     "logoDark": false,
     "availabilityNote": "Konfigurasi akses sumber tidak disertakan pada kode publik. Gunakan playlist yang Anda miliki aksesnya.",
@@ -1068,7 +1068,7 @@
     "group": "Indonesia",
     "section": "Nasional",
     "owner": "Lainnya",
-    "logoUrl": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_daaitv.png",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/6c3803040221.png",
     "servers": [
       {
         "name": "Server 1",
@@ -1107,9 +1107,9 @@
     "group": "Indonesia",
     "section": "Nasional",
     "owner": "Lainnya",
-    "logoUrl": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jaktv.png",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/5e07f6004445.png",
     "servers": [],
-    "logoDark": false,
+    "logoDark": true,
     "availabilityNote": "Konfigurasi akses sumber tidak disertakan pada kode publik. Gunakan playlist yang Anda miliki aksesnya.",
     "officialUrl": "https://jak-tv.com/",
     "epgIds": {
@@ -1124,7 +1124,7 @@
     "group": "Indonesia",
     "section": "Religi",
     "owner": "Lainnya",
-    "logoUrl": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvmu.png",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/d07b8c1a4cfe.png",
     "servers": [],
     "logoDark": false,
     "availabilityNote": "Konfigurasi akses sumber tidak disertakan pada kode publik. Gunakan playlist yang Anda miliki aksesnya.",
@@ -1139,7 +1139,7 @@
     "group": "Indonesia",
     "section": "Religi",
     "owner": "Lainnya",
-    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-4y3qUljfX_BHFUkaJ8HVtBAqoFmTSxYgKpkFrmPBzg&s=10",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/b48d3df14b07.png",
     "servers": [
       {
         "name": "Server 1",
@@ -1184,7 +1184,7 @@
     "group": "Indonesia",
     "section": "Religi",
     "owner": "Lainnya",
-    "logoUrl": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/88_DMITV-88-WARNA_2025_07_23_10_09_34.png",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/a8894ebc66c6.png",
     "servers": [
       {
         "name": "Server 1",
@@ -1200,7 +1200,8 @@
     "epgIds": {
       "indonesia": "TawafTV.id",
       "iptvepg": "TawafTV.id"
-    }
+    },
+    "officialUrl": "https://tawaf.tv/"
   },
   {
     "id": "3cec19874cdd",
@@ -1208,7 +1209,7 @@
     "group": "Indonesia",
     "section": "Religi",
     "owner": "Lainnya",
-    "logoUrl": "",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/3cec19874cdd.png",
     "servers": [],
     "logoDark": false,
     "availabilityNote": "Konfigurasi akses sumber tidak disertakan pada kode publik. Gunakan playlist yang Anda miliki aksesnya.",
@@ -1223,7 +1224,7 @@
     "group": "Indonesia",
     "section": "Nasional",
     "owner": "Lainnya",
-    "logoUrl": "https://i.imgur.com/N19eGsM.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/e37f4a26c4a5.png",
     "servers": [
       {
         "name": "Server 1",
@@ -1264,7 +1265,7 @@
     "group": "Indonesia",
     "section": "Berita",
     "owner": "B Universe",
-    "logoUrl": "https://i.imgur.com/PE8YCX1.jpeg",
+    "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/3b14768b8201.png",
     "servers": [
       {
         "name": "Server 3",

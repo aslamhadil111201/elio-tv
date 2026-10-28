@@ -1,6 +1,8 @@
 package id.matin.nusatv;
 
 final class SeekWindow {
+ static long position(float x,float left,float right,long duration){if(right<=left||duration<=0||Float.isNaN(x)||Float.isInfinite(x))return 0;return Math.round(Math.max(0,Math.min(1,(x-left)/(double)(right-left)))*duration);}
+ static long rebase(long position,long oldStart,long newStart,long duration){long value=position;if(oldStart>=0&&newStart>=0)value=position-(newStart-oldStart);if(value<0||value>duration)throw new IllegalArgumentException("Outside DVR window");return value;}
  static long parse(String value){
   String s=value.trim();if(!s.matches("[0-9]{1,6}(:[0-5][0-9])?"))throw new IllegalArgumentException("Use minutes or mm:ss");
   String[] parts=s.split(":");return (Long.parseLong(parts[0])*60+(parts.length==2?Long.parseLong(parts[1]):0))*1000;
