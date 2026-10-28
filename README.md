@@ -1,57 +1,67 @@
 # ELIO TV
 
-Aplikasi pemutar IPTV untuk **Android TV, STB Android, dan HP Android**. Mendukung navigasi remote maupun layar sentuh, preview siaran, favorit, pilihan server, dan jadwal acara pada channel yang didukung.
-
-Repository publik ini menyimpan kode proyek Android, dokumentasi, APK, dan arsip kode sumber ELIO TV.
+Aplikasi pemutar IPTV untuk **Android TV, STB Android, dan HP Android**. Mendukung remote dan layar sentuh, preview siaran, favorit, pilihan server, serta jadwal acara pada channel yang didukung.
 
 ## Unduh aplikasi
 
-APK tersedia pada halaman [Releases](../../releases). Versi saat ini: **v1.8.5**.
+Versi terbaru: **[ELIO TV v1.9.0](https://github.com/aslamhadil111201/elio-tv/releases/tag/v1.9.0)** · [Semua rilis](https://github.com/aslamhadil111201/elio-tv/releases)
 
-## Pembaruan v1.8.5
+Unduh **[ELIO_TV_1.9.0_Mobile_TV.apk](https://github.com/aslamhadil111201/elio-tv/releases/download/v1.9.0/ELIO_TV_1.9.0_Mobile_TV.apk)** dari bagian Assets. Pasang sebagai pembaruan tanpa menghapus versi lama. Sertifikat pembaruan sama dengan versi 1.8.6.
 
-- Total katalog **131 entri channel**.
-- Tambahan **29 varian Nickelodeon dan Nick Jr.**, termasuk Classics, Teen, serta Toons, yang videonya berhasil didekode saat uji ulang.
-- 102 entri dari versi sebelumnya tetap dipertahankan.
-- Kandidat Nickelodeon berbahasa Indonesia belum lolos uji sehingga belum dimasukkan.
+## Pembaruan v1.9.0
+
+- **Katalog online:** pemeriksaan otomatis setiap 4 jam saat aplikasi aktif; pemeriksaan manual melalui **Pengaturan → Perbarui channel → Perbarui sekarang**.
+- **Katalog cadangan:** pembaruan divalidasi, disimpan secara atomik, dan memakai katalog terakhir jika koneksi gagal. Favorit serta playlist pribadi dipertahankan.
+- **Putar ulang pada sumber yang mendukung:** melalui **Pilihan / MENU → Putar ulang / posisi siaran**. Mundur/maju 30 detik, pilih menit atau mm:ss, dan kembali ke siaran langsung.
+- Perbaikan fokus remote dari 1.8.6: tombol **Tonton sekarang**, **Favorit**, dan **Info siaran** dapat dipilih.
+- Katalog bawaan tetap **131 entri channel**. Rilis ini tidak menambah atau menguji ulang sumber siaran.
+
+Putar ulang bergantung pada rentang video yang disediakan server. Jadwal EPG bukan arsip video; fitur ini tidak menyediakan rekaman acara kemarin pada semua channel.
 
 ## Cara instalasi
 
-1. Buka halaman Releases dan unduh `ELIO_TV_1.8.5_Mobile_TV.apk`.
+1. Buka [rilis v1.9.0](https://github.com/aslamhadil111201/elio-tv/releases/tag/v1.9.0) dan unduh `ELIO_TV_1.9.0_Mobile_TV.apk`.
 2. Buka APK di perangkat Android. Jika diminta, izinkan pemasangan dari sumber yang dipilih.
-3. Untuk pengguna versi sebelumnya, pasang sebagai pembaruan.
-4. Pada TV/STB gunakan tombol arah, OK, dan Back. Pada HP gunakan sentuhan serta geser untuk menjelajahi channel.
+3. Pengguna versi lama dapat memasangnya sebagai pembaruan.
+4. TV/STB: gunakan tombol arah, OK, Back, dan MENU. HP: gunakan sentuhan dan geser daftar channel.
 
-## Catatan pengujian
+## Katalog dan jadwal acara
 
-Keberhasilan uji sumber berlaku saat pengujian dan tidak menjamin ketersediaan seterusnya atau akses dari semua jaringan. Jumlah katalog bukan jumlah channel yang dijamin aktif. APK versi ini belum diuji langsung pada perangkat Android fisik. Jadwal acara hanya tampil jika data EPG tersedia.
+[Katalog online](catalog/channels.json) disimpan di branch **main**. Pengelola dapat mengganti metadata, sumber, server cadangan, dan logo tanpa membangun APK baru. Setiap perubahan katalog harus menaikkan nomor revisi. Baca **[panduan pembaruan katalog](docs/CATALOG_UPDATES.md)**.
+
+Pembaruan katalog bukan pencarian otomatis IPTV aktif. Ketersediaan siaran bergantung pada penyedia, wilayah, dan jaringan. EPG hanya tampil jika data jadwal tersedia.
+
+## Kode sumber dan build
+
+Kode versi **1.9.0** tersedia di branch **main**. Pilih **Code → Download ZIP** untuk mengunduh proyek, atau gunakan Source code pada rilis **v1.9.0**.
+
+Kebutuhan build: **JDK 17, Gradle 8.9, Android SDK 35, Build Tools 35.0.0**. Baca [panduan build](docs/BUILD.md).
+
+Salinan publik tidak menyertakan kunci penandatanganan, password, konfigurasi komputer, atau konfigurasi akses bertoken/DRM dan header rahasia. Katalog publik dapat berbeda dari konfigurasi APK distribusi.
+
+## Pengujian
+
+Build release dan lintVital lolos. Sebanyak **38 uji katalog/HTTP dan 18 uji posisi putar ulang** lolos. Pengunduh Java berhasil mengambil katalog GitHub melalui HTTPS, memvalidasi, menggabungkan 131 channel, dan membaca ulang salinan lokal. Sertifikat APK cocok dengan versi 1.8.6.
+
+**Belum diuji langsung di TV/STB/HP fisik.** Uji logika bukan jaminan semua channel aktif atau semua sumber mendukung DVR. Lihat [catatan pengujian v1.9.0](docs/TESTING_1.9.0.md).
 
 ## Riwayat versi
 
 | Versi | Pembaruan |
 | --- | --- |
+| **1.9.0** | Katalog online, cache cadangan, dan kontrol putar ulang sesuai dukungan sumber |
+| 1.8.6 | Perbaikan fokus remote untuk Tonton, Favorit, dan Info siaran |
 | 1.8.5 | 29 varian keluarga Nickelodeon; total 131 entri |
 | 1.8.4 | Tambahan Saudi, USA, serta olahraga/gaming; total 102 entri |
 
----
-
-ELIO TV merupakan aplikasi pemutar. Ketersediaan siaran bergantung pada penyedia sumber dan jaringan yang digunakan.
-
-## Kode sumber lengkap
-
-Kode proyek sekarang tersedia langsung pada branch **main**, dalam folder `app/` dan `docs/`. Untuk mengunduh proyek, pilih **Code → Download ZIP** dari halaman utama repository.
-
-Salinan kode publik tidak memuat kunci penandatanganan, password, konfigurasi komputer, atau konfigurasi akses bertoken/DRM dan header rahasia. Karena itu katalog publik berbeda dari sebagian konfigurasi APK distribusi.
-
-Arsip sumber lama pada Releases sedang direvisi. Gunakan branch main sebagai sumber kode terkini.
+Rincian: [CHANGELOG](CHANGELOG.md). Rilis lama tetap tersedia sebagai arsip.
 
 ## Struktur proyek
 
-- `app/src/main/java/`: kode Java aplikasi.
-- `app/src/main/assets/`: katalog channel, cache EPG, dan aset tampilan.
-- `app/src/main/res/`: ikon, banner, dan resource Android.
-- `docs/BUILD.md`: panduan membangun APK.
-- `docs/TESTING_1.8.5.md`: catatan pengujian dan batasannya.
-- `build.gradle` dan `settings.gradle`: konfigurasi proyek Android.
-
-Buka folder repository di Android Studio atau ikuti [panduan build](docs/BUILD.md).
+- `app/src/main/java/`: UI, player, failover, navigasi, EPG, katalog online, dan posisi putar ulang.
+- `app/src/main/assets/`: katalog bawaan, cache EPG, dan logo.
+- `app/src/main/res/`: ikon launcher, banner Android TV, dan resource.
+- `catalog/channels.json`: snapshot katalog online.
+- `tests/`: uji Java katalog/HTTP dan posisi putar ulang.
+- `docs/`: panduan build, pengelolaan katalog, dan catatan pengujian.
+- `app/build.gradle`: versi 1.9.0, versionCode 21.
