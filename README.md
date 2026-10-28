@@ -31,7 +31,7 @@ Putar ulang bergantung pada rentang video yang disediakan server. Jadwal EPG buk
 
 ## Katalog dan jadwal acara
 
-**Katalog online revisi 4: 133 entri**, termasuk tambahan **RCTV Cirebon** dan **Banten TV**. Di versi 1.9.0/1.9.1 buka **Pengaturan → Perbarui channel → Perbarui sekarang**, lalu cari nama channel. Tidak perlu memasang APK baru untuk tambahan katalog ini. Jadwal EPG kedua channel belum dipetakan.
+**Katalog online revisi 5: 136 entri**, termasuk **RCTV Cirebon, Banten TV, Jogja TV, Banyumas TV, dan Radar Tasikmalaya TV**. Di versi 1.9.0/1.9.1 buka **Pengaturan → Perbarui channel → Perbarui sekarang**, lalu cari nama channel. Tidak perlu memasang APK baru untuk tambahan katalog ini. Jadwal EPG kelima channel lokal tersebut belum dipetakan.
 
 
 [Katalog online](catalog/channels.json) disimpan di branch **main**. Pengelola dapat mengganti metadata, sumber, server cadangan, dan logo tanpa membangun APK baru. Setiap perubahan katalog harus menaikkan nomor revisi. Baca **[panduan pembaruan katalog](docs/CATALOG_UPDATES.md)**.
