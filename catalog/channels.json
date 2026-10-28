@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 3,
+  "revision": 4,
   "updatedAt": "2026-10-28",
   "channels": [
     {
@@ -1006,7 +1006,7 @@
       "section": "Lokal",
       "owner": "Cirebon, Jawa Barat",
       "officialUrl": "https://www.radarcirebon.tv/",
-      "logoUrl": "https://i.imgur.com/CyIlt0y.png",
+      "logoUrl": "https://play-lh.googleusercontent.com/2IbcLcLYOu2NvgYc98F15YcMQQfcUeH98fgpDfuThqihzOQomqy6VHRzlUefIO50rpY%3Dw240-h480",
       "logoDark": false,
       "epgIds": {},
       "servers": [
@@ -1027,7 +1027,7 @@
       "section": "Lokal",
       "owner": "Banten",
       "officialUrl": "https://app.bantentv.com/live-stream/",
-      "logoUrl": "https://i.imgur.com/tbtF40p.png",
+      "logoUrl": "https://app.bantentv.com/wp-content/uploads/2025/05/BANTEN_TV-768x92.png",
       "logoDark": false,
       "epgIds": {},
       "servers": [
