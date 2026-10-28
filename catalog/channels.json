@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 4,
+  "revision": 5,
   "updatedAt": "2026-10-28",
   "channels": [
     {
@@ -1037,6 +1037,66 @@
           "headers": {
             "User-Agent": "Mozilla/5.0",
             "Referer": "https://app.bantentv.com/live-stream/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "local-jogja-tv",
+      "name": "Jogja TV",
+      "group": "Indonesia",
+      "section": "Lokal",
+      "owner": "Yogyakarta",
+      "officialUrl": "https://jogjatv.co.id/live-streaming",
+      "logoUrl": "https://jogjatv.co.id/templates/frontend/jtv/images/logo-atas.png",
+      "logoDark": false,
+      "epgIds": {},
+      "servers": [
+        {
+          "name": "Jogja TV · siaran lokal",
+          "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "local-banyumas-tv",
+      "name": "Banyumas TV",
+      "group": "Indonesia",
+      "section": "Lokal",
+      "owner": "Banyumas, Jawa Tengah",
+      "officialUrl": "https://bmstv.id/",
+      "logoUrl": "https://bmstv.net/wp-content/uploads/2024/02/BMS-LOGO-2024-kecil.png",
+      "logoDark": false,
+      "epgIds": {},
+      "servers": [
+        {
+          "name": "Banyumas TV · siaran lokal",
+          "url": "https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "local-radar-tasikmalaya-tv",
+      "name": "Radar Tasikmalaya TV",
+      "group": "Indonesia",
+      "section": "Lokal",
+      "owner": "Tasikmalaya, Jawa Barat",
+      "officialUrl": "https://radartasikmalaya.tv/live-streaming/",
+      "logoUrl": "https://radartasikmalaya.tv/wp-content/uploads/2022/12/cropped-logo-radar-tv-baru-november-20172-1-e1684336104958.png",
+      "logoDark": false,
+      "epgIds": {},
+      "servers": [
+        {
+          "name": "Radar Tasikmalaya TV · siaran lokal",
+          "url": "https://v2.siar.us/radartasikmalaya/live/playlist.m3u8",
+          "headers": {
+            "User-Agent": "Mozilla/5.0"
           }
         }
       ]
