@@ -1,4 +1,4 @@
-# Membangun ELIO TV 1.9.0
+# Membangun ELIO TV 1.9.1
 
 ## Kebutuhan
 
@@ -39,7 +39,7 @@ Ketersediaan sumber dan jadwal EPG dapat berubah. Kredensial penandatanganan, ko
 
 ## Versi dan katalog online
 
-Branch main memakai versionName 1.9.0 dan versionCode 21. Katalog online berada di [catalog/channels.json](../catalog/channels.json); petunjuk pengelolaan ada di [CATALOG_UPDATES.md](CATALOG_UPDATES.md). Perubahan katalog tidak memerlukan build APK, sedangkan perubahan kode aplikasi memerlukan build dan penandatanganan baru.
+Branch main memakai versionName 1.9.1 dan versionCode 22. Katalog online berada di [catalog/channels.json](../catalog/channels.json); petunjuk pengelolaan ada di [CATALOG_UPDATES.md](CATALOG_UPDATES.md). Perubahan katalog tidak memerlukan build APK, sedangkan perubahan kode aplikasi memerlukan build dan penandatanganan baru.
 
 APK yang dibangun dari salinan publik memakai konfigurasi sumber publik yang telah disanitasi. Gunakan aset APK pada rilis jika membutuhkan paket distribusi yang sama persis.
 

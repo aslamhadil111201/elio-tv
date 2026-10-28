@@ -1,5 +1,14 @@
 # Riwayat ELIO TV
 
+## 1.9.1 — 28 Oktober 2026
+
+- 39 logo nasional dinormalisasi/diganti dengan aset bersih; Tawaf dan Berita Satu dikoreksi.
+- Katalog online revisi 2 membawa logo baru tanpa mengganti sumber siaran.
+- Timeline menit/detik di player: drag pada HP dan navigasi remote, dengan penyesuaian pergeseran DVR.
+- Daftar hingga 24 acara sebelumnya dalam 24 jam terakhir. Pemutaran hanya jika awal acara masih berada dalam DVR yang tersedia; akses layanan resmi bila URL tersedia.
+- 18 uji baru timeline/riwayat; build release dan sertifikat lolos. Belum diuji di perangkat fisik.
+- VersionCode 22. [Catatan rilis](docs/RELEASE_1.9.1.md).
+
 ## 1.9.0 — 28 Oktober 2026
 
 - Katalog kumulatif dari GitHub, pemeriksaan otomatis 4 jam dan manual.
