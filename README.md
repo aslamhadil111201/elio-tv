@@ -31,8 +31,10 @@ Putar ulang bergantung pada rentang video yang disediakan server. Jadwal EPG buk
 
 ## Katalog dan jadwal acara
 
-**Katalog online revisi 5: 136 entri**, termasuk **RCTV Cirebon, Banten TV, Jogja TV, Banyumas TV, dan Radar Tasikmalaya TV**. Di versi 1.9.0/1.9.1 buka **Pengaturan → Perbarui channel → Perbarui sekarang**, lalu cari nama channel. Tidak perlu memasang APK baru untuk tambahan katalog ini. Jadwal EPG kelima channel lokal tersebut belum dipetakan.
+**Katalog online revisi 6: 136 entri**, termasuk **RCTV Cirebon, Banten TV, Jogja TV, Banyumas TV, dan Radar Tasikmalaya TV**. Di versi 1.9.0/1.9.1 buka **Pengaturan → Perbarui channel → Perbarui sekarang**, lalu cari nama channel. Tidak perlu memasang APK baru untuk tambahan katalog ini. Jadwal EPG kelima channel lokal tersebut belum dipetakan.
 
+
+**Perbaikan logo katalog revisi 6 (untuk APK v1.9.1):** 19 gambar logo disimpan di repositori, mencakup lima TV lokal dan 14 channel olahraga/internasional. Logo yang sudah tersedia di APK memakai aset bawaan agar tidak menghabiskan kuota pemrosesan 64 logo online. Total cakupan 135 dari 136 channel; TVS Sports Bureau masih memakai teks karena gambar yang ditemukan sudah tidak tersedia. Gunakan pembaruan katalog manual, lalu buka ulang aplikasi bila gambar belum muncul.
 
 [Katalog online](catalog/channels.json) disimpan di branch **main**. Pengelola dapat mengganti metadata, sumber, server cadangan, dan logo tanpa membangun APK baru. Setiap perubahan katalog harus menaikkan nomor revisi. Baca **[panduan pembaruan katalog](docs/CATALOG_UPDATES.md)**.
 

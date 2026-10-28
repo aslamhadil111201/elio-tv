@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 5,
+  "revision": 6,
   "updatedAt": "2026-10-28",
   "channels": [
     {
@@ -9,7 +9,7 @@
       "group": "Indonesia",
       "section": "Nasional",
       "owner": "MNC Media",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/76b8049d05f2.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -18,7 +18,7 @@
       "group": "Indonesia",
       "section": "Nasional",
       "owner": "MNC Media",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/59dc39d68779.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -27,7 +27,7 @@
       "group": "Indonesia",
       "section": "Nasional",
       "owner": "MNC Media",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/eb2be75dbc33.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -36,7 +36,7 @@
       "group": "Indonesia",
       "section": "Berita",
       "owner": "MNC Media",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/9410de67a439.png",
+      "logoUrl": "",
       "logoDark": true
     },
     {
@@ -45,7 +45,7 @@
       "group": "Indonesia",
       "section": "Berita",
       "owner": "MNC Media",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/3e085bb86527.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -54,7 +54,7 @@
       "group": "Indonesia",
       "section": "Berita",
       "owner": "MNC Media",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/5e5216c2e2b9.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -63,7 +63,7 @@
       "group": "Indonesia",
       "section": "Nasional",
       "owner": "Emtek",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/65d55676d404.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -72,7 +72,7 @@
       "group": "Indonesia",
       "section": "Nasional",
       "owner": "Emtek",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/6eeca542573f.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -81,7 +81,7 @@
       "group": "Indonesia",
       "section": "Nasional",
       "owner": "Emtek",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/3a327309e1f0.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -90,7 +90,7 @@
       "group": "Indonesia",
       "section": "Anak",
       "owner": "Emtek",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/3e238f5b9d90.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -99,7 +99,7 @@
       "group": "Indonesia",
       "section": "Berita",
       "owner": "VIVA",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/3b7bc5d92b33.png",
+      "logoUrl": "",
       "logoDark": true
     },
     {
@@ -108,7 +108,7 @@
       "group": "Indonesia",
       "section": "Nasional",
       "owner": "VIVA",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/d25f0338f18a.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -117,7 +117,7 @@
       "group": "Indonesia",
       "section": "Anak",
       "owner": "VIVA",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/1042ec1d8a31.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -126,7 +126,7 @@
       "group": "Indonesia",
       "section": "Nasional",
       "owner": "Trans Media",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/83523281758f.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -135,7 +135,7 @@
       "group": "Indonesia",
       "section": "Nasional",
       "owner": "Trans Media",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/5877b9e4f09d.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -144,7 +144,7 @@
       "group": "Indonesia",
       "section": "Berita",
       "owner": "Trans Media",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/1cffca4543cd.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -153,7 +153,7 @@
       "group": "Indonesia",
       "section": "Berita",
       "owner": "Trans Media",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/af1612e14dad.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -162,7 +162,7 @@
       "group": "Indonesia",
       "section": "Berita",
       "owner": "Media Group",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/2d54a4d37cd5.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -171,7 +171,7 @@
       "group": "Indonesia",
       "section": "Nasional",
       "owner": "Media Group",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/d5284e0e05c7.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -180,7 +180,7 @@
       "group": "Indonesia",
       "section": "Berita",
       "owner": "Media Group",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/1ba339bdd431.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -189,7 +189,7 @@
       "group": "Indonesia",
       "section": "Berita",
       "owner": "B Universe",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/b9c29328d87b.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -198,7 +198,7 @@
       "group": "Indonesia",
       "section": "Berita",
       "owner": "Lainnya",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/89ffcdf5f4db.png",
+      "logoUrl": "",
       "logoDark": true
     },
     {
@@ -207,7 +207,7 @@
       "group": "Indonesia",
       "section": "Nasional",
       "owner": "TVRI",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/c7f165fbd692.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -216,7 +216,7 @@
       "group": "Indonesia",
       "section": "Olahraga",
       "owner": "TVRI",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/6fd18f170d9c.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -225,7 +225,7 @@
       "group": "Indonesia",
       "section": "Nasional",
       "owner": "TVRI",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/23409d0c1abb.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -234,7 +234,7 @@
       "group": "Indonesia",
       "section": "Daerah",
       "owner": "TVRI",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/22d4cb9e370e.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -243,7 +243,7 @@
       "group": "Indonesia",
       "section": "Daerah",
       "owner": "TVRI",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/d6f705c6de25.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -252,7 +252,7 @@
       "group": "Indonesia",
       "section": "Nasional",
       "owner": "Lainnya",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/5e9f1b636b16.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -261,7 +261,7 @@
       "group": "Indonesia",
       "section": "Berita",
       "owner": "Lainnya",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/4df4b52a9933.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -270,7 +270,7 @@
       "group": "Indonesia",
       "section": "Berita",
       "owner": "Lainnya",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/7b18b51da30c.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -279,7 +279,7 @@
       "group": "Indonesia",
       "section": "Berita",
       "owner": "Lainnya",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/8c4ece4818e7.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -288,7 +288,7 @@
       "group": "Indonesia",
       "section": "Nasional",
       "owner": "Lainnya",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/6c3803040221.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -297,7 +297,7 @@
       "group": "Indonesia",
       "section": "Nasional",
       "owner": "Lainnya",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/5e07f6004445.png",
+      "logoUrl": "",
       "logoDark": true
     },
     {
@@ -306,7 +306,7 @@
       "group": "Indonesia",
       "section": "Religi",
       "owner": "Lainnya",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/d07b8c1a4cfe.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -315,7 +315,7 @@
       "group": "Indonesia",
       "section": "Religi",
       "owner": "Lainnya",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/b48d3df14b07.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -324,7 +324,7 @@
       "group": "Indonesia",
       "section": "Religi",
       "owner": "Lainnya",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/a8894ebc66c6.png",
+      "logoUrl": "",
       "logoDark": false,
       "officialUrl": "https://tawaf.tv/"
     },
@@ -334,7 +334,7 @@
       "group": "Indonesia",
       "section": "Religi",
       "owner": "Lainnya",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/3cec19874cdd.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -343,7 +343,7 @@
       "group": "Indonesia",
       "section": "Nasional",
       "owner": "Lainnya",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/e37f4a26c4a5.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -352,7 +352,7 @@
       "group": "Indonesia",
       "section": "Berita",
       "owner": "B Universe",
-      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/v191/3b14768b8201.png",
+      "logoUrl": "",
       "logoDark": false
     },
     {
@@ -360,133 +360,157 @@
       "name": "DW English",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Internasional"
+      "owner": "Internasional",
+      "logoUrl": ""
     },
     {
       "id": "d3410385f479",
       "name": "CNA Originals",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Internasional"
+      "owner": "Internasional",
+      "logoUrl": ""
     },
     {
       "id": "d2b5c94529c4",
       "name": "CGTN Documentary",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Internasional"
+      "owner": "Internasional",
+      "logoUrl": ""
     },
     {
       "id": "699b9c009962",
       "name": "Arirang TV",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Internasional"
+      "owner": "Internasional",
+      "logoUrl": ""
     },
     {
       "id": "248a836f2601",
       "name": "Bloomberg Originals",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Internasional"
+      "owner": "Internasional",
+      "logoUrl": ""
     },
     {
       "id": "5d56ac894b39",
       "name": "France 24 English",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Internasional"
+      "owner": "Internasional",
+      "logoUrl": ""
     },
     {
       "id": "cd6d03475c15",
       "name": "Euronews English",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Internasional"
+      "owner": "Internasional",
+      "logoUrl": ""
     },
     {
       "id": "797e95388d3d",
       "name": "CNA",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Internasional"
+      "owner": "Internasional",
+      "logoUrl": ""
     },
     {
       "id": "5bd1c03874af",
       "name": "Al Jazeera English",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Internasional"
+      "owner": "Internasional",
+      "logoUrl": ""
     },
     {
       "id": "dcc243272dbe",
       "name": "Al Jazeera Arabic",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Internasional"
+      "owner": "Internasional",
+      "logoUrl": ""
     },
     {
       "id": "0fa1152946bf",
       "name": "EBS kids",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Internasional"
+      "owner": "Internasional",
+      "logoUrl": ""
     },
     {
       "id": "3a2bc2170e12",
       "name": "TV5MONDE Chefs",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Internasional"
+      "owner": "Internasional",
+      "logoUrl": ""
     },
     {
       "id": "315db84632ef",
       "name": "Bloomberg TV Europe",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Internasional"
+      "owner": "Internasional",
+      "logoUrl": ""
     },
     {
       "id": "1c0698dc7160",
       "name": "NHK World-Japan",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Internasional"
+      "owner": "Internasional",
+      "logoUrl": ""
     },
     {
       "id": "sports-ktv-sport",
       "name": "KTV Sport",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "Kuwait · Arab"
+      "owner": "Kuwait · Arab",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/r6/sports-ktv-sport.png",
+      "logoDark": false
     },
     {
       "id": "sports-ktv-sport-plus",
       "name": "KTV Sport Plus",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "Kuwait · Arab"
+      "owner": "Kuwait · Arab",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/r6/sports-ktv-sport-plus.png",
+      "logoDark": false
     },
     {
       "id": "sports-oman-sports-tv",
       "name": "Oman Sports TV",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "Oman · Arab"
+      "owner": "Oman · Arab",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/r6/sports-oman-sports-tv.png",
+      "logoDark": false
     },
     {
       "id": "sport-ftf-sports",
       "name": "FTF Sports",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "Amerika Serikat"
+      "owner": "Amerika Serikat",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/r6/sport-ftf-sports.png",
+      "logoDark": true
     },
     {
       "id": "sport-tvs-sports",
       "name": "TVS Sports",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "Amerika Serikat"
+      "owner": "Amerika Serikat",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/r6/sport-tvs-sports.png",
+      "logoDark": false
     },
     {
       "id": "sport-tvs-sports-bureau",
@@ -500,504 +524,585 @@
       "name": "Bahrain Sports 1",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "Bahrain"
+      "owner": "Bahrain",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/r6/sport-bahrain-sports-1.png",
+      "logoDark": false
     },
     {
       "id": "sport-bahrain-sports-2",
       "name": "Bahrain Sports 2",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "Bahrain"
+      "owner": "Bahrain",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/r6/sport-bahrain-sports-2.png",
+      "logoDark": false
     },
     {
       "id": "sport-htspor-tv",
       "name": "HTSpor TV",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "Turki"
+      "owner": "Turki",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/r6/sport-htspor-tv.png",
+      "logoDark": false
     },
     {
       "id": "sport-more-than-sports-tv",
       "name": "More Than Sports TV",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "Jerman"
+      "owner": "Jerman",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/r6/sport-more-than-sports-tv.png",
+      "logoDark": false
     },
     {
       "id": "sport-motorvision-tv",
       "name": "Motorvision TV",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "Jerman"
+      "owner": "Jerman",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/r6/sport-motorvision-tv.png",
+      "logoDark": false
     },
     {
       "id": "my-sukan-rtm",
       "name": "Sukan+ (RTM)",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "Malaysia · Sumber DRM belum teruji"
+      "owner": "Malaysia · Sumber DRM belum teruji",
+      "logoUrl": ""
     },
     {
       "id": "my-tv-okey",
       "name": "TV Okey",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "RTM · Malaysia"
+      "owner": "RTM · Malaysia",
+      "logoUrl": ""
     },
     {
       "id": "my-tv1",
       "name": "TV1 Malaysia",
       "group": "Internasional",
       "section": "Malaysia",
-      "owner": "RTM · Malaysia"
+      "owner": "RTM · Malaysia",
+      "logoUrl": ""
     },
     {
       "id": "my-tv2",
       "name": "TV2 Malaysia",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "RTM · Malaysia"
+      "owner": "RTM · Malaysia",
+      "logoUrl": ""
     },
     {
       "id": "intl-jordan-sport",
       "name": "Jordan Sport",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "Yordania · Arab"
+      "owner": "Yordania · Arab",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/r6/intl-jordan-sport.png",
+      "logoDark": false
     },
     {
       "id": "intl-al-iraqia-sport",
       "name": "Al Iraqia Sport",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "Irak · Arab"
+      "owner": "Irak · Arab",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/r6/intl-al-iraqia-sport.png",
+      "logoDark": false
     },
     {
       "id": "intl-se-al-colombia",
       "name": "Señal Colombia",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "Kolombia · Spanyol · Umum"
+      "owner": "Kolombia · Spanyol · Umum",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/r6/intl-se-al-colombia.png",
+      "logoDark": false
     },
     {
       "id": "intl-bolivia-tv",
       "name": "Bolivia TV",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "Bolivia · Spanyol · Umum"
+      "owner": "Bolivia · Spanyol · Umum",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/r6/intl-bolivia-tv.png",
+      "logoDark": false
     },
     {
       "id": "religion-makkah",
       "name": "Makkah Live",
       "group": "Internasional",
       "section": "Religi",
-      "owner": "Arab Saudi · Saudi Quran TV"
+      "owner": "Arab Saudi · Saudi Quran TV",
+      "logoUrl": ""
     },
     {
       "id": "religion-madinah",
       "name": "Madinah Live",
       "group": "Internasional",
       "section": "Religi",
-      "owner": "Arab Saudi · Saudi Sunnah TV"
+      "owner": "Arab Saudi · Saudi Sunnah TV",
+      "logoUrl": ""
     },
     {
       "id": "extra-al-saudiya",
       "name": "Al Saudiya",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Arab Saudi"
+      "owner": "Arab Saudi",
+      "logoUrl": ""
     },
     {
       "id": "extra-sbc-saudi-arabia",
       "name": "SBC Saudi Arabia",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Arab Saudi"
+      "owner": "Arab Saudi",
+      "logoUrl": ""
     },
     {
       "id": "extra-thikrayat",
       "name": "Thikrayat",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Arab Saudi"
+      "owner": "Arab Saudi",
+      "logoUrl": ""
     },
     {
       "id": "extra-al-ekhbariya",
       "name": "Al Ekhbariya",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Arab Saudi"
+      "owner": "Arab Saudi",
+      "logoUrl": ""
     },
     {
       "id": "extra-al-saudiya-alaan",
       "name": "Al Saudiya Alaan",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Arab Saudi"
+      "owner": "Arab Saudi",
+      "logoUrl": ""
     },
     {
       "id": "extra-biz-tv",
       "name": "Biz TV",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Amerika Serikat"
+      "owner": "Amerika Serikat",
+      "logoUrl": ""
     },
     {
       "id": "extra-bloomberg",
       "name": "Bloomberg",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Amerika Serikat"
+      "owner": "Amerika Serikat",
+      "logoUrl": ""
     },
     {
       "id": "extra-nbc-news",
       "name": "NBC News",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Amerika Serikat"
+      "owner": "Amerika Serikat",
+      "logoUrl": ""
     },
     {
       "id": "extra-drybar-comedy",
       "name": "Drybar Comedy",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Amerika Serikat"
+      "owner": "Amerika Serikat",
+      "logoUrl": ""
     },
     {
       "id": "extra-stryk-tv",
       "name": "Stryk TV",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Amerika Serikat"
+      "owner": "Amerika Serikat",
+      "logoUrl": ""
     },
     {
       "id": "extra-fox-live-now",
       "name": "FOX Live Now",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Amerika Serikat"
+      "owner": "Amerika Serikat",
+      "logoUrl": ""
     },
     {
       "id": "extra-cheddar",
       "name": "Cheddar",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Amerika Serikat"
+      "owner": "Amerika Serikat",
+      "logoUrl": ""
     },
     {
       "id": "extra-weathernation",
       "name": "WeatherNation",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Amerika Serikat"
+      "owner": "Amerika Serikat",
+      "logoUrl": ""
     },
     {
       "id": "extra-america-s-voice",
       "name": "America's Voice",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Amerika Serikat"
+      "owner": "Amerika Serikat",
+      "logoUrl": ""
     },
     {
       "id": "extra-newsmax-tv",
       "name": "Newsmax TV",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Amerika Serikat"
+      "owner": "Amerika Serikat",
+      "logoUrl": ""
     },
     {
       "id": "extra-america-teve",
       "name": "America TeVe",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Amerika Serikat"
+      "owner": "Amerika Serikat",
+      "logoUrl": ""
     },
     {
       "id": "extra-botflix-tv",
       "name": "Botflix TV",
       "group": "Internasional",
       "section": "Internasional",
-      "owner": "Amerika Serikat"
+      "owner": "Amerika Serikat",
+      "logoUrl": ""
     },
     {
       "id": "extra-bein-sports-xtra",
       "name": "beIN SPORTS XTRA",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "Olahraga internasional"
+      "owner": "Olahraga internasional",
+      "logoUrl": ""
     },
     {
       "id": "extra-fifa-espa-ol",
       "name": "FIFA+ Español",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "Olahraga internasional"
+      "owner": "Olahraga internasional",
+      "logoUrl": ""
     },
     {
       "id": "extra-fifa-usa",
       "name": "FIFA+ USA",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "Olahraga internasional"
+      "owner": "Olahraga internasional",
+      "logoUrl": ""
     },
     {
       "id": "extra-fifa-women",
       "name": "FIFA+ Women",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "Olahraga internasional"
+      "owner": "Olahraga internasional",
+      "logoUrl": ""
     },
     {
       "id": "extra-stadium",
       "name": "Stadium",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "Olahraga internasional"
+      "owner": "Olahraga internasional",
+      "logoUrl": ""
     },
     {
       "id": "extra-swerve-sports",
       "name": "Swerve Sports",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "Olahraga internasional"
+      "owner": "Olahraga internasional",
+      "logoUrl": ""
     },
     {
       "id": "extra-tennis-channel",
       "name": "Tennis Channel",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "Olahraga internasional"
+      "owner": "Olahraga internasional",
+      "logoUrl": ""
     },
     {
       "id": "extra-trace-sport-stars",
       "name": "Trace Sport Stars",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "Olahraga internasional"
+      "owner": "Olahraga internasional",
+      "logoUrl": ""
     },
     {
       "id": "extra-tvs-women-sports",
       "name": "TVS Women Sports",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "Olahraga internasional"
+      "owner": "Olahraga internasional",
+      "logoUrl": ""
     },
     {
       "id": "extra-world-of-freesports",
       "name": "World of Freesports",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "Olahraga internasional"
+      "owner": "Olahraga internasional",
+      "logoUrl": ""
     },
     {
       "id": "extra-pluto-esports",
       "name": "Pluto TV E-Sports",
       "group": "Internasional",
       "section": "Olahraga",
-      "owner": "Esports & gaming · Spanyol"
+      "owner": "Esports & gaming · Spanyol",
+      "logoUrl": ""
     },
     {
       "id": "nick-nick-jr-croatia-540p",
       "name": "Nick Jr. (Croatia)",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nick-jr-czech-republic",
       "name": "Nick Jr. (Czech Republic)",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nick-jr-hungary",
       "name": "Nick Jr. (Hungary)",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nick-jr-italy-720p",
       "name": "Nick Jr. (Italy)",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nick-jr-poland-576i",
       "name": "Nick Jr. (Poland)",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nick-jr-club-germany-720p",
       "name": "Nick Jr. Club (Germany)",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nick-jr-club-united-states-br-720p",
       "name": "Nick Jr. Club Brasil",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nick-jr-club-united-states-latam-720p",
       "name": "Nick Jr. Club Latino",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nick-jr-latin-america-1080p",
       "name": "Nick Jr. Latin America",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nick-jr-pluto-tv-720p",
       "name": "Nick Jr. Pluto TV",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nick-jr-pluto-tv-ca",
       "name": "Nick Jr. Pluto TV CA",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nickelodeon-brazil-480p",
       "name": "Nickelodeon (Brazil)",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nickelodeon-croatia-1080p",
       "name": "Nickelodeon (Croatia)",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nickelodeon-germany",
       "name": "Nickelodeon (Germany)",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nickelodeon-hungary",
       "name": "Nickelodeon (Hungary)",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nickelodeon-poland-576i",
       "name": "Nickelodeon (Poland)",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nickelodeon-russia-576p",
       "name": "Nickelodeon (Russia)",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nickelodeon-united-states-720p",
       "name": "Nickelodeon (United States)",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nickelodeon-cis-1080p",
       "name": "Nickelodeon CIS",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nickelodeon-clasico-720p",
       "name": "Nickelodeon Clásico Latino",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nickelodeon-classico-720p",
       "name": "Nickelodeon Clássico Brasil",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nickelodeon-classics-720p",
       "name": "Nickelodeon Classics Germany",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nickelodeon-en-espanol",
       "name": "Nickelodeon en espanol",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nickelodeon-global-576p",
       "name": "Nickelodeon Global",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nickelodeon-pluto-tv-720p",
       "name": "Nickelodeon Pluto TV",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nickelodeon-teen-720p",
       "name": "Nickelodeon Teen Brasil",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nickelodeon-teen-latam-720p",
       "name": "Nickelodeon Teen Latino",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nickelodeon-toons-720p",
       "name": "Nickelodeon Toons Brasil",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "nick-nickelodeon-toons-latam-720p",
       "name": "Nickelodeon Toons Latino",
       "group": "Internasional",
       "section": "Anak & Keluarga",
-      "owner": "Nickelodeon · Internasional"
+      "owner": "Nickelodeon · Internasional",
+      "logoUrl": ""
     },
     {
       "id": "local-rctv-cirebon",
@@ -1006,7 +1111,7 @@
       "section": "Lokal",
       "owner": "Cirebon, Jawa Barat",
       "officialUrl": "https://www.radarcirebon.tv/",
-      "logoUrl": "https://play-lh.googleusercontent.com/2IbcLcLYOu2NvgYc98F15YcMQQfcUeH98fgpDfuThqihzOQomqy6VHRzlUefIO50rpY%3Dw240-h480",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/r6/local-rctv-cirebon.png",
       "logoDark": false,
       "epgIds": {},
       "servers": [
@@ -1027,7 +1132,7 @@
       "section": "Lokal",
       "owner": "Banten",
       "officialUrl": "https://app.bantentv.com/live-stream/",
-      "logoUrl": "https://app.bantentv.com/wp-content/uploads/2025/05/BANTEN_TV-768x92.png",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/r6/local-banten-tv.png",
       "logoDark": false,
       "epgIds": {},
       "servers": [
@@ -1048,7 +1153,7 @@
       "section": "Lokal",
       "owner": "Yogyakarta",
       "officialUrl": "https://jogjatv.co.id/live-streaming",
-      "logoUrl": "https://jogjatv.co.id/templates/frontend/jtv/images/logo-atas.png",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/r6/local-jogja-tv.png",
       "logoDark": false,
       "epgIds": {},
       "servers": [
@@ -1068,7 +1173,7 @@
       "section": "Lokal",
       "owner": "Banyumas, Jawa Tengah",
       "officialUrl": "https://bmstv.id/",
-      "logoUrl": "https://bmstv.net/wp-content/uploads/2024/02/BMS-LOGO-2024-kecil.png",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/r6/local-banyumas-tv.png",
       "logoDark": false,
       "epgIds": {},
       "servers": [
@@ -1088,7 +1193,7 @@
       "section": "Lokal",
       "owner": "Tasikmalaya, Jawa Barat",
       "officialUrl": "https://radartasikmalaya.tv/live-streaming/",
-      "logoUrl": "https://radartasikmalaya.tv/wp-content/uploads/2022/12/cropped-logo-radar-tv-baru-november-20172-1-e1684336104958.png",
+      "logoUrl": "https://raw.githubusercontent.com/aslamhadil111201/elio-tv/main/catalog/logos/r6/local-radar-tasikmalaya-tv.png",
       "logoDark": false,
       "epgIds": {},
       "servers": [
