@@ -4,9 +4,17 @@ Aplikasi pemutar IPTV untuk **Android TV, STB Android, dan HP Android**. Menduku
 
 ## Unduh aplikasi
 
-Versi terbaru: **[ELIO TV v1.9.1](https://github.com/aslamhadil111201/elio-tv/releases/tag/v1.9.1)** · [Semua rilis](https://github.com/aslamhadil111201/elio-tv/releases)
+Versi terbaru: **[ELIO TV v1.9.2](https://github.com/aslamhadil111201/elio-tv/releases/tag/v1.9.2)** · [Semua rilis](https://github.com/aslamhadil111201/elio-tv/releases)
 
-Unduh **[ELIO_TV_1.9.1_Mobile_TV.apk](https://github.com/aslamhadil111201/elio-tv/releases/download/v1.9.1/ELIO_TV_1.9.1_Mobile_TV.apk)** dari bagian Assets. Pasang sebagai pembaruan tanpa menghapus versi lama. Sertifikat pembaruan sama dengan versi 1.8.6.
+Unduh **[ELIO_TV_1.9.2_Mobile_TV.apk](https://github.com/aslamhadil111201/elio-tv/releases/download/v1.9.2/ELIO_TV_1.9.2_Mobile_TV.apk)** dari bagian Assets. Pasang sebagai pembaruan tanpa menghapus versi lama. Sertifikat pembaruan sama dengan versi 1.8.6.
+
+## Pembaruan v1.9.2
+
+- **Pengaturan layar** saat menonton: Pas layar, Penuhi layar, dan Regangkan.
+- Buka **Pilihan → Pengaturan layar** di HP atau **MENU → Pengaturan layar** lewat remote TV. Pilihan disimpan setelah pindah channel dan membuka ulang aplikasi.
+- **Penuhi layar** memotong tepi gambar; **Regangkan** dapat mengubah proporsi. Default **Pas layar** mempertahankan gambar utuh.
+- **46 uji Java ukuran video lolos**. Belum diuji langsung di perangkat fisik. [Catatan rilis](docs/RELEASE_1.9.2.md).
+- Fitur ini membutuhkan pemasangan APK v1.9.2; pembaruan katalog saja tidak menambah menu player.
 
 ## Pembaruan v1.9.1
 
@@ -24,17 +32,17 @@ Putar ulang bergantung pada rentang video yang disediakan server. Jadwal EPG buk
 
 ## Cara instalasi
 
-1. Buka [rilis v1.9.1](https://github.com/aslamhadil111201/elio-tv/releases/tag/v1.9.1) dan unduh `ELIO_TV_1.9.1_Mobile_TV.apk`.
+1. Buka [rilis v1.9.2](https://github.com/aslamhadil111201/elio-tv/releases/tag/v1.9.2) dan unduh `ELIO_TV_1.9.2_Mobile_TV.apk`.
 2. Buka APK di perangkat Android. Jika diminta, izinkan pemasangan dari sumber yang dipilih.
 3. Pengguna versi lama dapat memasangnya sebagai pembaruan.
 4. TV/STB: gunakan tombol arah, OK, Back, dan MENU. HP: gunakan sentuhan dan geser daftar channel.
 
 ## Katalog dan jadwal acara
 
-**Katalog online revisi 6: 136 entri**, termasuk **RCTV Cirebon, Banten TV, Jogja TV, Banyumas TV, dan Radar Tasikmalaya TV**. Di versi 1.9.0/1.9.1 buka **Pengaturan → Perbarui channel → Perbarui sekarang**, lalu cari nama channel. Tidak perlu memasang APK baru untuk tambahan katalog ini. Jadwal EPG kelima channel lokal tersebut belum dipetakan.
+**Katalog online revisi 6: 136 entri**, termasuk **RCTV Cirebon, Banten TV, Jogja TV, Banyumas TV, dan Radar Tasikmalaya TV**. Di versi 1.9.0 ke atas buka **Pengaturan → Perbarui channel → Perbarui sekarang**, lalu cari nama channel. Tidak perlu memasang APK baru untuk tambahan katalog ini. Jadwal EPG kelima channel lokal tersebut belum dipetakan.
 
 
-**Perbaikan logo katalog revisi 6 (untuk APK v1.9.1):** 19 gambar logo disimpan di repositori, mencakup lima TV lokal dan 14 channel olahraga/internasional. Logo yang sudah tersedia di APK memakai aset bawaan agar tidak menghabiskan kuota pemrosesan 64 logo online. Total cakupan 135 dari 136 channel; TVS Sports Bureau masih memakai teks karena gambar yang ditemukan sudah tidak tersedia. Gunakan pembaruan katalog manual, lalu buka ulang aplikasi bila gambar belum muncul.
+**Perbaikan logo katalog revisi 6 (untuk APK v1.9.1 ke atas):** 19 gambar logo disimpan di repositori, mencakup lima TV lokal dan 14 channel olahraga/internasional. Logo yang sudah tersedia di APK memakai aset bawaan agar tidak menghabiskan kuota pemrosesan 64 logo online. Total cakupan 135 dari 136 channel; TVS Sports Bureau masih memakai teks karena gambar yang ditemukan sudah tidak tersedia. Gunakan pembaruan katalog manual, lalu buka ulang aplikasi bila gambar belum muncul.
 
 [Katalog online](catalog/channels.json) disimpan di branch **main**. Pengelola dapat mengganti metadata, sumber, server cadangan, dan logo tanpa membangun APK baru. Setiap perubahan katalog harus menaikkan nomor revisi. Baca **[panduan pembaruan katalog](docs/CATALOG_UPDATES.md)**.
 
@@ -42,7 +50,7 @@ Pembaruan katalog bukan pencarian otomatis IPTV aktif. Ketersediaan siaran berga
 
 ## Kode sumber dan build
 
-Kode versi **1.9.1** tersedia di branch **main**. Pilih **Code → Download ZIP** untuk mengunduh proyek, atau gunakan Source code pada rilis **v1.9.1**.
+Kode versi **1.9.2** tersedia di branch **main**. Pilih **Code → Download ZIP** untuk mengunduh proyek, atau gunakan Source code pada rilis **v1.9.2**.
 
 Kebutuhan build: **JDK 17, Gradle 8.9, Android SDK 35, Build Tools 35.0.0**. Baca [panduan build](docs/BUILD.md).
 
@@ -58,7 +66,8 @@ Build release dan lintVital lolos. Sebanyak **38 uji katalog/HTTP, 18 uji parsin
 
 | Versi | Pembaruan |
 | --- | --- |
-| **1.9.1** | Logo nasional bersih, timeline yang dapat ditarik, dan daftar acara sebelumnya dalam DVR |
+| **1.9.2** | Pilihan Pas layar, Penuhi layar dan Regangkan untuk ukuran video di HP/TV |
+| 1.9.1 | Logo nasional bersih, timeline yang dapat ditarik, dan daftar acara sebelumnya dalam DVR |
 | 1.9.0 | Katalog online, cache cadangan, dan kontrol putar ulang sesuai dukungan sumber |
 | 1.8.6 | Perbaikan fokus remote untuk Tonton, Favorit, dan Info siaran |
 | 1.8.5 | 29 varian keluarga Nickelodeon; total 131 entri |
@@ -74,4 +83,4 @@ Rincian: [CHANGELOG](CHANGELOG.md). Rilis lama tetap tersedia sebagai arsip.
 - `catalog/channels.json`: snapshot katalog online.
 - `tests/`: uji Java katalog/HTTP dan posisi putar ulang.
 - `docs/`: panduan build, pengelolaan katalog, dan catatan pengujian.
-- `app/build.gradle`: versi 1.9.1, versionCode 22.
+- `app/build.gradle`: versi 1.9.2, versionCode 24.

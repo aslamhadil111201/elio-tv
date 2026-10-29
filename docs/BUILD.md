@@ -1,4 +1,4 @@
-# Membangun ELIO TV 1.9.1
+# Membangun ELIO TV 1.9.2
 
 ## Kebutuhan
 
@@ -39,10 +39,13 @@ Ketersediaan sumber dan jadwal EPG dapat berubah. Kredensial penandatanganan, ko
 
 ## Versi dan katalog online
 
-Branch main memakai versionName 1.9.1 dan versionCode 22. Katalog online berada di [catalog/channels.json](../catalog/channels.json); petunjuk pengelolaan ada di [CATALOG_UPDATES.md](CATALOG_UPDATES.md). Perubahan katalog tidak memerlukan build APK, sedangkan perubahan kode aplikasi memerlukan build dan penandatanganan baru.
+Branch main memakai versionName 1.9.2 dan versionCode 24. Katalog online berada di [catalog/channels.json](../catalog/channels.json); petunjuk pengelolaan ada di [CATALOG_UPDATES.md](CATALOG_UPDATES.md). Perubahan katalog tidak memerlukan build APK, sedangkan perubahan kode aplikasi memerlukan build dan penandatanganan baru.
 
 APK yang dibangun dari salinan publik memakai konfigurasi sumber publik yang telah disanitasi. Gunakan aset APK pada rilis jika membutuhkan paket distribusi yang sama persis.
 
 ## Uji logika Java
 
 Sumber uji ada di folder tests. Dengan JDK 17 dan dependency org.json:json:20240303 pada classpath, kompilasi CatalogStore, CatalogHttp, SeekWindow, CatalogStoreTest, dan SeekWindowTest. Jalankan CatalogStoreTest dengan dua argumen: path app/src/main/assets/channels.json dan catalog/channels.json. SeekWindowTest tidak memerlukan argumen. Kedua uji tidak menjalankan UI Android.
+
+
+VideoLayoutTest dapat dikompilasi bersama VideoLayout tanpa Android SDK atau org.json; jalankan id.matin.nusatv.VideoLayoutTest. Ini memeriksa 46 kasus geometri video, bukan playback Android.

@@ -1,5 +1,13 @@
 # Riwayat ELIO TV
 
+## 1.9.2 — 29 Oktober 2026
+
+- Pengaturan layar video: Pas layar, Penuhi layar, dan Regangkan.
+- Pilihan tersimpan lintas channel dan sesi; menu mendukung sentuhan dan remote TV.
+- Penghitungan ulang saat format video/ukuran layar berubah, termasuk rasio piksel video.
+- 46 uji Java geometri layar lolos; belum diuji langsung pada perangkat fisik.
+- VersionCode 24. [Catatan rilis](docs/RELEASE_1.9.2.md).
+
 ## 1.9.1 — 28 Oktober 2026
 
 - 39 logo nasional dinormalisasi/diganti dengan aset bersih; Tawaf dan Berita Satu dikoreksi.
