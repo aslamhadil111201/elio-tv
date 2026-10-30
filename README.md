@@ -4,7 +4,11 @@ Aplikasi pemutar IPTV untuk **Android TV, STB Android, dan HP Android**. Menduku
 
 ## Unduh aplikasi
 
-Versi terbaru: **[ELIO TV v1.9.2](https://github.com/aslamhadil111201/elio-tv/releases/tag/v1.9.2)** · [Semua rilis](https://github.com/aslamhadil111201/elio-tv/releases)
+**Baru — [v1.9.3-cloud-test1 (percobaan)](https://github.com/aslamhadil111201/elio-tv/releases/tag/v1.9.3-cloud-test1):** pengaturan layar global dan dukungan awal repository/ekstensi Cloudstream untuk pencarian film. Fitur ekstensi Android 8+. **Belum diuji langsung di HP/TV; kompatibilitas provider belum dijamin.** [Cara mencoba dan batasan](docs/RELEASE_1.9.3-cloud-test1.md).
+
+Kode lengkap percobaan beserta dependensi dan sumber GPL tersedia pada **ELIO_TV_1.9.3-cloud-test1_Source.zip** di Assets prarilis. Kode Android pada main tetap versi stabil 1.9.2.
+
+Versi stabil: **[ELIO TV v1.9.2](https://github.com/aslamhadil111201/elio-tv/releases/tag/v1.9.2)** · [Semua rilis](https://github.com/aslamhadil111201/elio-tv/releases)
 
 Unduh **[ELIO_TV_1.9.2_Mobile_TV.apk](https://github.com/aslamhadil111201/elio-tv/releases/download/v1.9.2/ELIO_TV_1.9.2_Mobile_TV.apk)** dari bagian Assets. Pasang sebagai pembaruan tanpa menghapus versi lama. Sertifikat pembaruan sama dengan versi 1.8.6.
 
