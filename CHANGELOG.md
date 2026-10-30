@@ -1,5 +1,14 @@
 # Riwayat ELIO TV
 
+## 1.9.3-cloud-test1 — 30 Oktober 2026 (prarilis)
+
+- Pengaturan layar global pada beranda.
+- Dukungan percobaan repository/ekstensi Cloudstream, pencarian judul, detail/episode dan pemutaran melalui player ELIO.
+- Demo API offline 10 detik; fitur ekstensi Android 8+.
+- Build/lint dan uji JVM/statis lolos; belum diuji langsung di HP/TV atau provider pihak ketiga.
+- Versi stabil tetap 1.9.2. Kode lengkap percobaan tersedia sebagai arsip sumber khusus di Assets prarilis, bukan kode stabil main.
+- [Panduan dan batasan](docs/RELEASE_1.9.3-cloud-test1.md).
+
 ## 1.9.2 — 29 Oktober 2026
 
 - Pengaturan layar video: Pas layar, Penuhi layar, dan Regangkan.
