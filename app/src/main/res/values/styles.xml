@@ -1,0 +1,15 @@
+<resources>
+ <style name="ElioTheme" parent="android:style/Theme.Material.NoActionBar">
+  <item name="android:colorAccent">#A9DFFF</item>
+  <item name="android:windowBackground">#111419</item>
+  <item name="android:alertDialogTheme">@style/ElioDialog</item>
+ </style>
+ <style name="ElioDialog" parent="android:style/Theme.Material.Dialog.Alert">
+  <item name="android:colorAccent">#A9DFFF</item>
+  <item name="android:colorBackground">#18222D</item>
+  <item name="android:textColorPrimary">#F1F3F5</item>
+  <item name="android:textColorSecondary">#BDCEDD</item>
+  <item name="android:windowMinWidthMajor">60%</item>
+  <item name="android:windowMinWidthMinor">90%</item>
+ </style>
+</resources>

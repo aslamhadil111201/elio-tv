@@ -1,3 +1,7 @@
+# v1.9.3-cloud-test7 · Prarilis
+
+Header/skala TV dan Film disatukan, katalog gabungan provider terpasang, fallback sumber dan tab Film diperbarui. Build dan 117 uji logika lulus; pengujian perangkat belum dilakukan. [Catatan rilis](docs/RELEASE_1.9.3-cloud-test7.md).
+
 # Riwayat ELIO TV
 
 ## 1.9.3-cloud-test1 — 30 Oktober 2026 (prarilis)

@@ -3,13 +3,17 @@ android {
  namespace 'id.matin.nusatv'
  compileSdk 35
  buildToolsVersion '35.0.0'
- defaultConfig { applicationId 'id.matin.nusatv'; minSdk 23; targetSdk 35; versionCode 24; versionName '1.9.2' }
+ defaultConfig { applicationId 'id.matin.nusatv'; minSdk 23; targetSdk 35; versionCode 32; versionName '1.9.3-cloud-test7' }
  compileOptions { sourceCompatibility JavaVersion.VERSION_1_8; targetCompatibility JavaVersion.VERSION_1_8 }
+ packaging { resources { excludes += ['META-INF/versions/**/OSGI-INF/MANIFEST.MF','META-INF/DEPENDENCIES','META-INF/INDEX.LIST']; pickFirsts += ['META-INF/LICENSE*','META-INF/NOTICE*']; merges += ['META-INF/services/**'] } }
  buildTypes { release { minifyEnabled false } }
 }
 dependencies {
+ implementation fileTree(dir: "../smoke-libs", include: ["*.jar"], exclude: ["android.jar"])
  implementation 'androidx.media3:media3-exoplayer:1.5.1'
  implementation 'androidx.media3:media3-exoplayer-hls:1.5.1'
  implementation 'androidx.media3:media3-exoplayer-dash:1.5.1'
  implementation 'androidx.media3:media3-ui:1.5.1'
 }
+
+configurations.configureEach { exclude group: 'org.jetbrains.kotlin'; exclude group: 'org.jetbrains' }

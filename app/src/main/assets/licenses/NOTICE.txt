@@ -1,0 +1,10 @@
+Cloudstream API classes.jar and sources: recloudstream/cloudstream pre-release release published 2026-10-28, GPL-3.0. https://github.com/recloudstream/cloudstream
+ELIO Cloudstream compatibility bridge and local demo fixture: developed with AI assistance.
+Demo Big Buck Bunny: Blender Foundation, CC BY 3.0, https://peach.blender.org/; 10-second sample from test-videos.co.uk bundled for offline demonstration.
+Third-party extensions are not bundled or installed automatically.
+
+Big Buck Bunny license: https://creativecommons.org/licenses/by/3.0/
+Demo sample source: https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_1MB.mp4
+Dependency license notices are retained in licenses/dependencies.
+
+cloud-demo-poster.jpg is a still frame from the bundled Big Buck Bunny sample, Blender Foundation, CC BY 3.0 (same source and attribution as cloud-demo-video.mp4).

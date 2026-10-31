@@ -1,16 +1,24 @@
 # ELIO TV
 
-Aplikasi pemutar IPTV untuk **Android TV, STB Android, dan HP Android**. Mendukung remote dan layar sentuh, preview siaran, favorit, pilihan server, serta jadwal acara pada channel yang didukung.
+Aplikasi IPTV untuk **Android TV, STB Android, dan HP Android**, dengan preview siaran, favorit, jadwal acara dan pemutar film melalui ekstensi Cloudstream.
 
 ## Unduh aplikasi
 
-**Baru — [v1.9.3-cloud-test1 (percobaan)](https://github.com/aslamhadil111201/elio-tv/releases/tag/v1.9.3-cloud-test1):** pengaturan layar global dan dukungan awal repository/ekstensi Cloudstream untuk pencarian film. Fitur ekstensi Android 8+. **Belum diuji langsung di HP/TV; kompatibilitas provider belum dijamin.** [Cara mencoba dan batasan](docs/RELEASE_1.9.3-cloud-test1.md).
+**Prarilis terbaru: [v1.9.3-cloud-test7](https://github.com/aslamhadil111201/elio-tv/releases/tag/v1.9.3-cloud-test7)** · [Unduh APK](https://github.com/aslamhadil111201/elio-tv/releases/download/v1.9.3-cloud-test7/ELIO_TV_1.9.3-cloud-test7_Mobile_TV.apk)
 
-Kode lengkap percobaan beserta dependensi dan sumber GPL tersedia pada **ELIO_TV_1.9.3-cloud-test1_Source.zip** di Assets prarilis. Kode Android pada main tetap versi stabil 1.9.2.
+- Tampilan TV + Film diperbarui; keduanya memakai header dan skala yang sama.
+- Katalog dan pencarian Film menggabungkan provider yang sudah terpasang.
+- Sumber kosong/gagal mencoba provider cadangan yang cocok. Metadata tahun yang belum lengkap memerlukan konfirmasi.
+- Ikon informasi pada kartu channel dihapus; Info siaran tetap tersedia.
+- **Provider pihak ketiga belum dibundel.** Instalasi baru masih memerlukan pengaturan ekstensi melalui Setelan Film.
+- APK Android 6.0+; fitur Film/Cloudstream Android 8.0+.
+- Build dan 117 pemeriksaan logika lulus. **Tampilan, navigasi dan playback di perangkat belum diverifikasi langsung oleh pengembang.** Ketersediaan provider tidak dijamin.
 
-Versi stabil: **[ELIO TV v1.9.2](https://github.com/aslamhadil111201/elio-tv/releases/tag/v1.9.2)** · [Semua rilis](https://github.com/aslamhadil111201/elio-tv/releases)
+[Catatan prarilis](docs/RELEASE_1.9.3-cloud-test7.md) · [Kode lengkap dan dependensi](https://github.com/aslamhadil111201/elio-tv/releases/download/v1.9.3-cloud-test7/ELIO_TV_1.9.3-cloud-test7_Source.zip)
 
-Unduh **[ELIO_TV_1.9.2_Mobile_TV.apk](https://github.com/aslamhadil111201/elio-tv/releases/download/v1.9.2/ELIO_TV_1.9.2_Mobile_TV.apk)** dari bagian Assets. Pasang sebagai pembaruan tanpa menghapus versi lama. Sertifikat pembaruan sama dengan versi 1.8.6.
+Kode Android di **main** sekarang mengikuti test7. Untuk membangun lengkap gunakan arsip Source yang menyertakan dependensi SDK/API dan sumber GPL; lihat [panduan build](docs/BUILD_CLOUD_TEST.md). Katalog publik tetap terpisah dari sumber siaran privat.
+
+Versi stabil tetap [v1.9.2](https://github.com/aslamhadil111201/elio-tv/releases/tag/v1.9.2). Test7 diterbitkan sebagai **pre-release**, bukan pengganti klaim stabil.
 
 ## Pembaruan v1.9.2
 
