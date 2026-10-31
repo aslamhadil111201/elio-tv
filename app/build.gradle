@@ -3,7 +3,7 @@ android {
  namespace 'id.matin.nusatv'
  compileSdk 35
  buildToolsVersion '35.0.0'
- defaultConfig { applicationId 'id.matin.nusatv'; minSdk 23; targetSdk 35; versionCode 32; versionName '1.9.3-cloud-test7' }
+ defaultConfig { applicationId 'id.matin.nusatv'; minSdk 23; targetSdk 35; versionCode 33; versionName '1.9.3-cloud-test8' }
  compileOptions { sourceCompatibility JavaVersion.VERSION_1_8; targetCompatibility JavaVersion.VERSION_1_8 }
  packaging { resources { excludes += ['META-INF/versions/**/OSGI-INF/MANIFEST.MF','META-INF/DEPENDENCIES','META-INF/INDEX.LIST']; pickFirsts += ['META-INF/LICENSE*','META-INF/NOTICE*']; merges += ['META-INF/services/**'] } }
  buildTypes { release { minifyEnabled false } }

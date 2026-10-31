@@ -1,0 +1,6 @@
+42 checks passed: primary/empty/error fallback, exhausted/duplicate links, year/type/episode identity, cancellation, provider cap, and video geometry.
+25 catalog checks passed: responsive columns, actual content types, deduplication, filtering, result limits and partial-row focus.
+23 home checks passed: visible navigation, hero actions, scroll limits, final partial row and drawer hit geometry.
+27 viewport checks passed: phone 20:9, TV 16:9, portrait, uniform scale and coordinate round trips.
+41 remote/filter/preview checks passed: International filter traversal, boundaries, lifecycle eligibility and complete preferred-server permutations.
+Device playback and remote runtime: not tested.

@@ -1,5 +1,9 @@
 # Dashboard design review
 
+## Test8 functional correction
+
+Owner TV feedback exposed an unreachable filter row and preview teardown during menu navigation. Explicit filter focus/routing and a navigation-independent preview lifecycle are implemented. Filter focus, active state and empty results remain distinct. 158 logic checks pass; actual Android TV remote navigation and live preview playback still require owner testing. No claim of universal source availability or completed device validation is made.
+
 ## Test7 consistency correction
 
 One shared header renderer replaces independent TV and Film mastheads. Labels, identity assets, typography, coordinates, selected underline, remote focus and localized date now have one implementation. Film category controls adopt the TV underline treatment, retaining native button semantics and content descriptions. Existing geometry/catalog/fallback checks are rerun. Android runtime rendering, hit targets and remote behavior remain UNVERIFIED; this is a test deliverable, not a claim that a device screenshot has been validated.

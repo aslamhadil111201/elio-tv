@@ -1,3 +1,11 @@
+# v1.9.3-cloud-test8 · Prarilis
+
+- Perbaiki jalur fokus remote ke filter, termasuk Internasional dan kategori kosong.
+- Pertahankan preview saat fokus berpindah ke header/filter; prioritaskan server terakhir yang berhasil dan beri 9 detik untuk frame pertama.
+- 158 pemeriksaan logika dan build lulus. Navigasi/playback langsung di perangkat belum diuji pengembang.
+
+[Catatan rilis](docs/RELEASE_1.9.3-cloud-test8.md)
+
 # v1.9.3-cloud-test7 · Prarilis
 
 Header/skala TV dan Film disatukan, katalog gabungan provider terpasang, fallback sumber dan tab Film diperbarui. Build dan 117 uji logika lulus; pengujian perangkat belum dilakukan. [Catatan rilis](docs/RELEASE_1.9.3-cloud-test7.md).

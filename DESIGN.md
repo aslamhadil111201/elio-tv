@@ -1,5 +1,9 @@
 # ELIO TV television and film browser
 
+## Remote/filter correction · test8
+
+The category row has its own remote focus state between hero controls and channel grid. Its white focus outline is distinct from the baby-blue active underline. It remains reachable when a category is empty. Moving focus through header/filter controls must not itself stop the selected live preview. This corrects the navigation omission in the earlier design without changing the approved composition.
+
 ## Shared header correction · test7
 
 Owner screenshots showed that test6 scale alignment alone did not make the header consistent: native Film controls still used different artwork dimensions, menu positions, filled button treatment and date format. TV and Film now invoke the exact same header renderer; Film supplies native transparent hit/focus targets over the shared positions. Categories use underline tabs in both sections. This replaces the separate film masthead described in older revisions.
